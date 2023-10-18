@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Nudge Handbook
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+Nudge gently, propel impactfully
 
 ## Demo
 

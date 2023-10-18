@@ -9,14 +9,15 @@ Nudge gently, propel impactfully
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
+## To our instructors
 
 
 
 In our quest to design impactful courses, we've gleaned insights from many of the leading online 
 learning platforms and esteemed academic institutions offering online courses. This includes our 
-evolving strategies that offer broad guidance for mentors crafting their curriculums. We humbly 
-invite you to explore other pages for examples and further details we've provided based on these learnings.
+evolving strategies that offer broad guidance for mentors crafting their curriculums. 
+
+We humbly invite you to explore other pages for examples and further details we've provided based on these learnings.
 
 
 

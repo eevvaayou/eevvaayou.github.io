@@ -7,7 +7,7 @@ permalink: /
 Nudge gently, propel impactfully
 
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-pink.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 ## To our instructors
 

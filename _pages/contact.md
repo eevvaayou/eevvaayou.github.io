@@ -40,12 +40,5 @@ a.The Instructor or company must ensure that each course is materially accurate 
 b.The Instructor will not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
 
 
-
-
-
-
-<br>
-<br>
-<br>
 <br>
 <br>

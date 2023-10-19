@@ -9,7 +9,6 @@ The following text is intended to serve as a foundation for discussions among in
 
 <br>
 <br>
-<br>
 
 ##### Anti-Bullying and Non-Discrimination
 Instructors must adhere to policies and procedures on anti-bullying and non-discrimination.

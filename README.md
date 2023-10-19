@@ -13,20 +13,10 @@ In Nudge's pursuit of enhancing online education, we've drawn insights from este
 Your feedback is invaluable to Nudge, helping us tailor our courses to the diverse needs of our learners. 🙋‍♀️ We're committed to delivering quality with transparency, always seeking growth in what we offer.
 
 
-
-
-
-
-
-
-
-      
-
-
-
-
-
-
+<br>
+<br>
+<br>
+<br>
 
 
 

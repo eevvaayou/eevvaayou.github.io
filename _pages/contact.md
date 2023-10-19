@@ -8,7 +8,9 @@ layout: post
 <br>
 <br>
 The following text is intended to serve as a foundation for discussions among instructors, teaching assistants, and other pedagogical support personnel.
+
 <br>
+
 Anti-Bullying and Non-Discrimination
 Instructors must adhere to policies and procedures on anti-bullying and non-discrimination.
 <br>

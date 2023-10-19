@@ -21,4 +21,10 @@ Differentiation is key in guided instruction. Novices and intermediate learners 
 
 We're in this journey together. As we continue to learn and adapt, our goal remains the same: to pinpoint those perfect moments in teaching methods that truly resonate. It's about finding the ideal equilibrium, ensuring every lesson promotes growth and understanding. We hope our instructors find joy and fulfillment in this shared pursuit.
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>

@@ -5,7 +5,7 @@ date: 2023-10-10
 category: nudge
 layout: post
 ---
-
+<br>
 
 In our dynamic educational landscape, it's crucial for educators to seamlessly integrate relevant research into their courses. This means evaluating a study's innovation, its real-world application, and its lasting impact.
 

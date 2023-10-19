@@ -5,8 +5,6 @@ date: 2022-02-05
 category: J
 layout: post
 ---
-<br>
-<br>
 The following text is intended to serve as a foundation for discussions among instructors, teaching assistants, and other pedagogical support personnel.
 
 <br>

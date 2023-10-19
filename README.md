@@ -19,7 +19,5 @@ We invite you to explore our other pages for concrete examples and insights into
 <br>
 
 
-
-Nudge gently, Propel impactfully.
-
-Copyright 2023 Nudge.
+###### Nudge gently, Propel impactfully.
+###### Copyright 2023 Nudge.

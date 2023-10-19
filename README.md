@@ -4,10 +4,10 @@ title: Nudge Handbook
 permalink: /
 ---
 
-Nudge gently, propel impactfully
+Nudge gently, Propel impactfully.
 
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-NudgeEdu-brightpink.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+[![Jekyll Themes](https://img.shields.io/badge/featured%20on-NudgeEdu-rosepink.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
 # To our instructors
 
@@ -22,6 +22,6 @@ Your feedback is invaluable to Nudge, helping us tailor our courses to the diver
 
 
 
-🌳
+
 
 Copyright 2023 Nudge.

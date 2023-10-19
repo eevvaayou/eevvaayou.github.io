@@ -25,14 +25,17 @@ It is imperative for instructors to maintain the confidentiality of records and 
 
 <br>
 Authority
+
 Due to the authoritative stature of instructors in the academic realm, they have the capacity to influence others' thoughts and actions. They also have a responsibility to recognize the potential weight of their verbal and non-verbal expressions. As leaders in the classroom, instructors have not only the responsibility to disseminate invigorating ideas and pose academic challenges but also to maintain courtesy and respect in intellectual dialogues.
 
 <br>
 Fair Treatment of All Students
+
 Students should be treated equitably. However, treating all students in an identical manner does not necessarily result in fairness. For instance, while some students respond positively to sincere and appropriate criticism, others might find it discouraging. Some students welcome public feedback on their work, while others might find it discomforting. Truly equitable treatment of students hinges on diligently recognizing and appreciating these differences. Both instructors and students should be vigilant against racial, religious, gender-based, and other discriminatory stereotypes.
 
 <br>
 Clear Communication
+
 Given that a part of students' evaluations depends on their understanding of the course requisites, instructors should clearly articulate their expectations, assignments, and rules for collaboration and citation. Providing written explanations of tasks and requirements can mitigate the risk of misconceptions. Students are entitled to demand clear justifications for the instructor's assessments, just as instructors are entitled to expect timely and sincere completion of assignments by students.
 <br>
 

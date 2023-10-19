@@ -18,7 +18,6 @@ Instructors must adhere to policies and procedures on anti-bullying and non-disc
 
 ### Professional Conduct and Judgment
 Instructors must refrain from actions displaying extreme negligence or poor professional judgment that might endanger the health, safety, or well-being of students or the company, or unreasonably impede an individual's or the company's ability to perform their duties or undertake their educational or training programs.
-
 <br>
 
 ### Confidentiality

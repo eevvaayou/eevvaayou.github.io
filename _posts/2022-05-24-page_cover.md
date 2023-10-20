@@ -69,15 +69,19 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 ##### 3.	Risk-Based Evaluation of Existing Courses
 Nudge regularly collects metrics for each academic program offered. High-risk programs are identified by one or more strategic risks, such as the health of the course's operations, alignment with Nudge's vision, and market demand. Nudge uses the following metrics to identify high-risk programs:
 
-•	Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)
+<font color="grey">
 
-•	Stakeholder satisfaction (students, parents, etc.)
+- Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)
 
-•	Changes in instructor professional backgrounds and resources.
+- Stakeholder satisfaction (students, parents, etc.)
 
-•	Current and effective course delivery ("Curriculum Currency").
+- Changes in instructor professional backgrounds and resources.
 
-•	Learning outcomes.
+- Current and effective course delivery ("Curriculum Currency").
+
+- Learning outcomes.
+
+</font>
 
 Based on the aforementioned risk assessment, Nudge adjusts its teaching strategies, determines the frequency of offering the course, or might decide to discontinue the course altogether.
  

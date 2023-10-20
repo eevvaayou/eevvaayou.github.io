@@ -28,15 +28,20 @@ The quality of courses is first and foremost assured through a process of course
 
 This process serves as an opportunity to align courses with student needs, primarily aiming to gather insights to answer the following:
 
-•	Will students learn content and gain knowledge essential for success in academia or their careers?
+<font color="grey">
 
-•	Are modifications needed in our course or teaching strategies?
+- Will students learn content and gain knowledge essential for success in academia or their careers?
 
-•	What additional techniques, resources, or materials could enhance learning effectiveness?
+- Are modifications needed in our course or teaching strategies?
 
-•	Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?
+- What additional techniques, resources, or materials could enhance learning effectiveness?
 
-•	Are the established answer keys and grading schemes appropriate?
+- Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?
+
+- Are the established answer keys and grading schemes appropriate?
+
+</font>
+
 
 Answering these questions helps instructors decide on the right actions and strategies, ensuring continuous improvement in the student learning experience. Instructors at Nudge must ensure all course materials for every course they lead are submitted to Nudge in advance, including but not limited to PowerPoints, database sources, literature, videos, and other learning resources. Nudge evaluates the quality and completeness of all course files.
 <br>

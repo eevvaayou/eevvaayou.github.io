@@ -12,11 +12,13 @@ cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 Since its inception, Nudge has been steadfast in its commitment to high-quality standards. Thus, we've implemented effective procedures to ensure our programs meet the high standards in quality, efficacy, and across all operations.
 Nudge's academic quality assurance consists of several key components:
 
-•	Ensuring the high quality of new online courses and maintaining the quality of existing courses.
+<u>Ensuring the high quality of new online courses and maintaining the quality of existing courses.</u>
 
-•	Upholding high standards of instruction.
+<u>Upholding high standards of instruction.</u>
 
-•	Guaranteeing student achievement of learning outcomes.
+<u>Guaranteeing student achievement of learning outcomes.</u>
+
+<br>
 
 Therefore, Nudge has specific, clearly defined requirements for quality assurance that stand apart from our strategic planning processes, as they represent our core business. These specifically pertain to teaching and learning, including:
 <br>

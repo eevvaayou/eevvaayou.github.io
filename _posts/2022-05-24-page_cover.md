@@ -19,7 +19,6 @@ Nudge's academic quality assurance consists of several key components:
 <u>Guaranteeing student achievement of learning outcomes.</u>
 
 <br>
-
 Therefore, Nudge has specific, clearly defined requirements for quality assurance that stand apart from our strategic planning processes, as they represent our core business. These specifically pertain to teaching and learning, including:
 <br>
 
@@ -45,7 +44,6 @@ This process serves as an opportunity to align courses with student needs, prima
 - Are the established answer keys and grading schemes appropriate?
 
 </font>
-
 
 Answering these questions helps instructors decide on the right actions and strategies, ensuring continuous improvement in the student learning experience. Instructors at Nudge must ensure all course materials for every course they lead are submitted to Nudge in advance, including but not limited to PowerPoints, database sources, literature, videos, and other learning resources. Nudge evaluates the quality and completeness of all course files.
 <br>
@@ -73,6 +71,7 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 - Communicate effectively both orally and in writing to diverse audiences (Communication).
 
 </font>
+
 <br>
 
 ##### 3.	Risk-Based Evaluation of Existing Courses

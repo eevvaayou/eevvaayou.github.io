@@ -14,6 +14,7 @@ Since its inception, Nudge has been steadfast in its commitment to high-quality 
 Nudge's academic quality assurance consists of several key components:
 
 •	Ensuring the high quality of new online courses and maintaining the quality of existing courses.
+
 •	Upholding high standards of instruction.
 •	Guaranteeing student achievement of learning outcomes.
 

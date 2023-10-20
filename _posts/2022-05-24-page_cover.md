@@ -56,14 +56,19 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 <font color="grey">
 
 - Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).
+  
 
 - Employ research skills in their academic work (Research).
+  
 
 - Locate, evaluate, and effectively utilize information from various sources (Information Literacy).
+  
 
 - Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).
+  
 
 - Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
+
 
 - Communicate effectively both orally and in writing to diverse audiences (Communication).
 
@@ -77,11 +82,15 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 - Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)
 
+
 - Stakeholder satisfaction (students, parents, etc.)
+
 
 - Changes in instructor professional backgrounds and resources.
 
+
 - Current and effective course delivery ("Curriculum Currency").
+
 
 - Learning outcomes.
 

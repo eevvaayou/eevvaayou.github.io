@@ -7,7 +7,6 @@ layout: post
 cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
-### Quality Assurance
 <br>
 
 Since its inception, Nudge has been steadfast in its commitment to high-quality standards. Thus, we've implemented effective procedures to ensure our programs meet the high standards in quality, efficacy, and across all operations.

@@ -16,8 +16,8 @@ Nudge's academic quality assurance consists of several key components:
 
 <u>3. Guaranteeing student achievement of learning outcomes.</u>
 
-<br>
 Therefore, Nudge has specific, clearly defined requirements for quality assurance that stand apart from our strategic planning processes, as they represent our core business. These specifically pertain to teaching and learning, including:
+<br>
 <br>
 
 ##### 1.	Invitation and Evaluation of New Courses

@@ -25,17 +25,17 @@ The quality of courses is first and foremost assured through a process of course
 
 This process serves as an opportunity to align courses with student needs, primarily aiming to gather insights to answer the following:
 
-<font color="lightgray">
+<font color="gray">
 
 👉 Will students learn content and gain knowledge essential for success in academia or their careers?<br>
 
-- Are modifications needed in our course or teaching strategies?<br>
+-   Are modifications needed in our course or teaching strategies?<br>
 
-- What additional techniques, resources, or materials could enhance learning effectiveness?<br>
+-   What additional techniques, resources, or materials could enhance learning effectiveness?<br>
 
-- Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
+-   Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
 
-- Are the established answer keys and grading schemes appropriate?<br>
+-   Are the established answer keys and grading schemes appropriate?<br>
 
 </font>
 <br>
@@ -46,19 +46,19 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-<font color="lightgray">
+<font color="gray">
   
-👉 Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
+👉  Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
 
-- Employ research skills in their academic work (Research).<br>
+-   Employ research skills in their academic work (Research).<br>
   
-- Locate, evaluate, and effectively utilize information from various sources (Information Literacy).<br>
+-   Locate, evaluate, and effectively utilize information from various sources (Information Literacy).<br>
   
-- Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).<br>
+-   Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).<br>
   
-- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
+-   Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
-- Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
+-   Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
 
 </font>
 <br>
@@ -68,15 +68,15 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 <font color="gray">
 
-👉 Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
+👉  Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
 
-- Stakeholder satisfaction (students, parents, etc.)<br>
+-   Stakeholder satisfaction (students, parents, etc.)<br>
 
-- Changes in instructor professional backgrounds and resources.<br>
+-   Changes in instructor professional backgrounds and resources.<br>
 
-- Current and effective course delivery ("Curriculum Currency").<br>
+-   Current and effective course delivery ("Curriculum Currency").<br>
 
-- Learning outcomes.<br>
+-   Learning outcomes.<br>
 
 </font>
 <br>

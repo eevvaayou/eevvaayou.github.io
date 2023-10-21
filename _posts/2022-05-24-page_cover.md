@@ -25,17 +25,17 @@ The quality of courses is first and foremost assured through a process of course
 
 This process serves as an opportunity to align courses with student needs, primarily aiming to gather insights to answer the following:
 
-<font color="blue">
+<font color="lightgray">
 
 👉 Will students learn content and gain knowledge essential for success in academia or their careers?<br>
 
-👉 Are modifications needed in our course or teaching strategies?<br>
+- Are modifications needed in our course or teaching strategies?<br>
 
-👉 What additional techniques, resources, or materials could enhance learning effectiveness?<br>
+- What additional techniques, resources, or materials could enhance learning effectiveness?<br>
 
-👉 Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
+- Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
 
-👉 Are the established answer keys and grading schemes appropriate?<br>
+- Are the established answer keys and grading schemes appropriate?<br>
 
 </font>
 <br>
@@ -46,7 +46,7 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-<font color="blue">
+<font color="lightgray">
   
 👉 Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
 
@@ -59,15 +59,16 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 - Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
 - Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
+
 </font>
 <br>
 
 ##### 3.	Risk-Based Evaluation of Existing Courses
 Nudge regularly collects metrics for each academic program offered. High-risk programs are identified by one or more strategic risks, such as the health of the course's operations, alignment with Nudge's vision, and market demand. Nudge uses the following metrics to identify high-risk programs:
 
-<font color="blue">
+<font color="gray">
 
-- Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
+👉 Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
 
 - Stakeholder satisfaction (students, parents, etc.)<br>
 

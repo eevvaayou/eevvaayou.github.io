@@ -36,7 +36,6 @@ This process serves as an opportunity to align courses with student needs, prima
 - &nbsp;&nbsp;&nbsp;<u>Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?</u><br>
 
 - &nbsp;&nbsp;&nbsp;<u>Are the established answer keys and grading schemes appropriate?</u><br>
-
 </font>
 <br>
 

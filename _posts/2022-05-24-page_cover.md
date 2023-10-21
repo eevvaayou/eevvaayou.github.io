@@ -51,17 +51,17 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-- Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).
+###### Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).
 
-- Employ research skills in their academic work (Research).
+###### Employ research skills in their academic work (Research).
   
-- Locate, evaluate, and effectively utilize information from various sources (Information Literacy).
+###### Locate, evaluate, and effectively utilize information from various sources (Information Literacy).
   
-- Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).
+###### Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).
   
-- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
+###### Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
 
-- Communicate effectively both orally and in writing to diverse audiences (Communication).
+###### Communicate effectively both orally and in writing to diverse audiences (Communication).
 
 <br>
 

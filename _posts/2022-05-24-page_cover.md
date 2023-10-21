@@ -25,17 +25,17 @@ The quality of courses is first and foremost assured through a process of course
 
 This process serves as an opportunity to align courses with student needs, primarily aiming to gather insights to answer the following:
 
-<font color="orange">
+<font color="blue">
 
-Will students learn content and gain knowledge essential for success in academia or their careers?<br>
+👉 Will students learn content and gain knowledge essential for success in academia or their careers?<br>
 
-Are modifications needed in our course or teaching strategies?<br>
+👉 Are modifications needed in our course or teaching strategies?<br>
 
-What additional techniques, resources, or materials could enhance learning effectiveness?<br>
+👉 What additional techniques, resources, or materials could enhance learning effectiveness?<br>
 
-Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
+👉 Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
 
-Are the established answer keys and grading schemes appropriate?<br>
+👉 Are the established answer keys and grading schemes appropriate?<br>
 
 </font>
 <br>

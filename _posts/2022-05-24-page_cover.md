@@ -27,7 +27,7 @@ This process serves as an opportunity to align courses with student needs, prima
 
 <font color="gray">
 
-👉 &nbsp;<u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
+👉 <u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
 
 - &nbsp;&nbsp;&nbsp;<u>Are modifications needed in our course or teaching strategies?</u><br>
 
@@ -50,7 +50,7 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 
 <font color="gray">
   
-👉 &nbsp;<u>Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).</u><br>
+👉 <u>Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).</u><br>
 
 - &nbsp;&nbsp;&nbsp;<u>Employ research skills in their academic work (Research).</u><br>
   
@@ -71,7 +71,7 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 <font color="gray">
 
-👉  &nbsp;Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)</u><br>
+👉  <u>Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)</u><br>
 
 - &nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents, etc.)</u><br>
 

@@ -38,8 +38,6 @@ This process serves as an opportunity to align courses with student needs, prima
 - &nbsp;&nbsp;&nbsp;<u>Are the established answer keys and grading schemes appropriate?</u><br>
 
 </font>
-<br>
-<br>
 
 Answering these questions helps instructors decide on the right actions and strategies, ensuring continuous improvement in the student learning experience. Instructors at Nudge must ensure all course materials for every course they lead are submitted to Nudge in advance, including but not limited to PowerPoints, database sources, literature, videos, and other learning resources. Nudge evaluates the quality and completeness of all course files.
 <br>
@@ -82,7 +80,6 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 - &nbsp;&nbsp;&nbsp;<u>Learning outcomes.</u><br>
 
 </font>
-<br>
 
 Based on the aforementioned risk assessment, Nudge adjusts its teaching strategies, determines the frequency of offering the course, or might decide to discontinue the course altogether.
  

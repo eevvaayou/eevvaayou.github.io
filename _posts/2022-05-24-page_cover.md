@@ -7,7 +7,6 @@ layout: post
 ---
 
 <br>
-
 Since its inception, Nudge has been steadfast in its commitment to high-quality standards. Thus, we've implemented effective procedures to ensure our programs meet the high standards in quality, efficacy, and across all operations.
 Nudge's academic quality assurance consists of several key components:
 
@@ -78,7 +77,7 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 - Learning outcomes.<br>
 
 </font>
-
+<br>
 
 Based on the aforementioned risk assessment, Nudge adjusts its teaching strategies, determines the frequency of offering the course, or might decide to discontinue the course altogether.
  

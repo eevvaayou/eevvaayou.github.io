@@ -4,7 +4,6 @@ author: nudge
 date: 2022-05-24
 category: J
 layout: post
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/dinosaur.gif
 ---
 
 <br>

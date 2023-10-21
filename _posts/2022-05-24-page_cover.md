@@ -27,15 +27,15 @@ This process serves as an opportunity to align courses with student needs, prima
 
 <font color="gray">
 
-👉 Will students learn content and gain knowledge essential for success in academia or their careers?<br>
+👉 <u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
 
-- &nbsp;&nbsp;&nbsp;Are modifications needed in our course or teaching strategies?<br>
+- <u>&nbsp;&nbsp;&nbsp;Are modifications needed in our course or teaching strategies?</u><br>
 
-- &nbsp;&nbsp;&nbsp;What additional techniques, resources, or materials could enhance learning effectiveness?<br>
+- <u>&nbsp;&nbsp;&nbsp;What additional techniques, resources, or materials could enhance learning effectiveness?</u><br>
 
-- &nbsp;&nbsp;&nbsp;Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
+- <u>&nbsp;&nbsp;&nbsp;Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?</u><br>
 
-- &nbsp;&nbsp;&nbsp;Are the established answer keys and grading schemes appropriate?<br>
+- <u>&nbsp;&nbsp;&nbsp;Are the established answer keys and grading schemes appropriate?</u><br>
 
 </font>
 <br>

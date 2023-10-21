@@ -46,9 +46,9 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-<font color="grey">
+<font color="blue">
   
-- Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
+👉 Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
 
 - Employ research skills in their academic work (Research).<br>
   
@@ -59,12 +59,13 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 - Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
 - Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
+</font>
 <br>
 
 ##### 3.	Risk-Based Evaluation of Existing Courses
 Nudge regularly collects metrics for each academic program offered. High-risk programs are identified by one or more strategic risks, such as the health of the course's operations, alignment with Nudge's vision, and market demand. Nudge uses the following metrics to identify high-risk programs:
 
-<font color="grey">
+<font color="blue">
 
 - Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
 

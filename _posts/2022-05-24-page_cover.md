@@ -27,15 +27,15 @@ This process serves as an opportunity to align courses with student needs, prima
 
 <font color="gray">
 
-👉 &nbsp;&nbsp;<u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
+👉 &nbsp;<u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Are modifications needed in our course or teaching strategies?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are modifications needed in our course or teaching strategies?</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>What additional techniques, resources, or materials could enhance learning effectiveness?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>What additional techniques, resources, or materials could enhance learning effectiveness?</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Are the established answer keys and grading schemes appropriate?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are the established answer keys and grading schemes appropriate?</u><br>
 
 </font>
 <br>
@@ -50,17 +50,17 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 
 <font color="gray">
   
-👉 &nbsp;&nbsp;Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
+👉 &nbsp;<u>Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Employ research skills in their academic work (Research).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Employ research skills in their academic work (Research).</u><br>
   
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Locate, evaluate, and effectively utilize information from various sources (Information Literacy).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Locate, evaluate, and effectively utilize information from various sources (Information Literacy).</u><br>
   
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).</u><br>
   
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Communicate effectively both orally and in writing to diverse audiences (Communication).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Communicate effectively both orally and in writing to diverse audiences (Communication).</u><br>
 
 </font>
 <br>
@@ -71,15 +71,15 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 <font color="gray">
 
-👉  &nbsp;&nbsp;Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)</u><br>
+👉  &nbsp;Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents, etc.)</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents, etc.)</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in instructor professional backgrounds and resources.</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Changes in instructor professional backgrounds and resources.</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Current and effective course delivery ("Curriculum Currency").</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Current and effective course delivery ("Curriculum Currency").</u><br>
 
-- &nbsp;&nbsp;&nbsp;&nbsp;<u>Learning outcomes.</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Learning outcomes.</u><br>
 
 </font>
 <br>

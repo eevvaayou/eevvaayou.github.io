@@ -29,18 +29,20 @@ This process serves as an opportunity to align courses with student needs, prima
 
 👉 Will students learn content and gain knowledge essential for success in academia or their careers?<br>
 
-- &nbsp;&nbsp;Are modifications needed in our course or teaching strategies?<br>
+- &nbsp;&nbsp;&nbsp;Are modifications needed in our course or teaching strategies?<br>
 
-- &nbsp;&nbsp;What additional techniques, resources, or materials could enhance learning effectiveness?<br>
+- &nbsp;&nbsp;&nbsp;What additional techniques, resources, or materials could enhance learning effectiveness?<br>
 
-- &nbsp;&nbsp;Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
+- &nbsp;&nbsp;&nbsp;Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
 
-- &nbsp;&nbsp;Are the established answer keys and grading schemes appropriate?<br>
+- &nbsp;&nbsp;&nbsp;Are the established answer keys and grading schemes appropriate?<br>
 
 </font>
 <br>
+<br>
 
 Answering these questions helps instructors decide on the right actions and strategies, ensuring continuous improvement in the student learning experience. Instructors at Nudge must ensure all course materials for every course they lead are submitted to Nudge in advance, including but not limited to PowerPoints, database sources, literature, videos, and other learning resources. Nudge evaluates the quality and completeness of all course files.
+<br>
 <br>
 
 ##### 2.	Assessment of Learning Outcomes
@@ -50,17 +52,18 @@ Below are general guiding principles for evaluating learning outcomes at the pro
   
 👉  Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
 
--   Employ research skills in their academic work (Research).<br>
+- &nbsp;&nbsp;&nbsp;Employ research skills in their academic work (Research).<br>
   
--   Locate, evaluate, and effectively utilize information from various sources (Information Literacy).<br>
+- &nbsp;&nbsp;&nbsp;Locate, evaluate, and effectively utilize information from various sources (Information Literacy).<br>
   
--   Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).<br>
+- &nbsp;&nbsp;&nbsp;Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).<br>
   
--   Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
+- &nbsp;&nbsp;&nbsp;Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
--   Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
+- &nbsp;&nbsp;&nbsp;Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
 
 </font>
+<br>
 <br>
 
 ##### 3.	Risk-Based Evaluation of Existing Courses
@@ -70,13 +73,13 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 👉  Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
 
--   Stakeholder satisfaction (students, parents, etc.)<br>
+- &nbsp;&nbsp;&nbsp;Stakeholder satisfaction (students, parents, etc.)<br>
 
--   Changes in instructor professional backgrounds and resources.<br>
+- &nbsp;&nbsp;&nbsp;Changes in instructor professional backgrounds and resources.<br>
 
--   Current and effective course delivery ("Curriculum Currency").<br>
+- &nbsp;&nbsp;&nbsp;Current and effective course delivery ("Curriculum Currency").<br>
 
--   Learning outcomes.<br>
+- &nbsp;&nbsp;&nbsp;Learning outcomes.<br>
 
 </font>
 <br>

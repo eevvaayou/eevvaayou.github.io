@@ -7,77 +7,76 @@ layout: post
 ---
 
 <br>
-Since its inception, Nudge has been steadfast in its commitment to high-quality standards. Thus, we've implemented effective procedures to ensure our programs meet the high standards in quality, efficacy, and across all operations.
-Nudge's academic quality assurance consists of several key components:
+Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all disciplines, serve as the focal points for our evaluation process. The key areas of focus pertain to teaching and learning and include:
 
-<u>1. Ensuring the high quality of new online courses and maintaining the quality of existing courses.</u>
+<u>1. Solicitation and appraisal of new courses,</u>
 
-<u>2. Upholding high standards of instruction.</u>
+<u>2. Assessment of student learning,</u>
 
-<u>3. Guaranteeing student achievement of learning outcomes.</u>
+<u>3. Risk-based evaluation of existing courses.</u>
 
-Therefore, Nudge has specific, clearly defined requirements for quality assurance that stand apart from our strategic planning processes, as they represent our core business. These specifically pertain to teaching and learning, including:
+Nudge places absolute trust in its instructors, recognizing them as esteemed leaders in academia. We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed with the evaluation criteria beforehand.
 <br>
 <br>
 
-##### 1.	Invitation and Evaluation of New Courses
-The quality of courses is first and foremost assured through a process of course invitation and new course evaluation, initiated by Nudge. Targeted instructors are approached with invitations. Upon signing, instructors are required to submit a course syllabus, followed by an initial evaluation, then the finalization of the course design. By the time the course commences, a final evaluation is ensured.
+##### 1.	Solicitation and Appraisal of New Courses 
+The quality assurance process for new courses begins with the solicitation and evaluation of new courses, initiated by Nudge. Upon contract agreement, instructors are required to submit a course outline. Following a preliminary evaluation, instructors commence course development, ensuring that the final evaluation is completed prior to the start of the course.
 
-This process serves as an opportunity to align courses with student needs, primarily aiming to gather insights to answer the following:
+This process provides an opportunity for alignment between the course content and student needs. The primary objective is to gather information to address the following questions: 
 
 <font color="gray">
 
-👉 <u>Will students learn content and gain knowledge essential for success in academia or their careers?</u><br>
+👉 <u>Will students acquire knowledge that we deem important or necessary for academic/professional success??</u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Are modifications needed in our course or teaching strategies?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are modifications required in the course structure or teaching strategies? </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>What additional techniques, resources, or materials could enhance learning effectiveness?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are there additional techniques, resources or materials that could enhance learning effectiveness? </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Are PowerPoint presentations and other learning resources compatible, adequate and compliant? </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Are the established answer keys and grading schemes appropriate?</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Is the appropriateness of established answers and grading schemes ensured?</u><br>
 </font>
 <br>
 
-Answering these questions helps instructors decide on the right actions and strategies, ensuring continuous improvement in the student learning experience. Instructors at Nudge must ensure all course materials for every course they lead are submitted to Nudge in advance, including but not limited to PowerPoints, database sources, literature, videos, and other learning resources. Nudge evaluates the quality and completeness of all course files.
+Responses to these questions assist instructors in determining appropriate actions and strategies for continuous improvement in student learning experiences. Instructors are required to provide all course files for each course they host to Nudge in advance. This includes, but is not limited to, PowerPoint presentations, database sources, literature, or other learning resources, which aid Nudge in evaluating the quality and completeness of all course files.
 <br>
 <br>
 
-##### 2.	Assessment of Learning Outcomes
-Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
+##### 2. Learning Outcome Evaluation 
+The following guidelines outline the general principles for evaluating student learning outcomes. These principles define our approach towards preparing students for success in their chosen subjects. Students are expected to achieve the following learning outcomes through their academic activities during the course cycle:
 
 <font color="gray">
   
-👉 <u>Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).</u><br>
+👉 <u>Demonstrate knowledge and skills in a specific discipline and ethically apply these competencies in real-life environments. </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Employ research skills in their academic work (Research).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Apply research skills in their academic work.</u><br>
   
-- &nbsp;&nbsp;&nbsp;<u>Locate, evaluate, and effectively utilize information from various sources (Information Literacy).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Locate, evaluate and effectively utilize information from various sources(Information Literacy).</u><br>
   
-- &nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and draw reasonable conclusions(Quantitative Reasoning).</u><br>
   
-- &nbsp;&nbsp;&nbsp;<u>Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Logically evaluate problems from multiple perspectives and develop reasonable and creative solutions(Critical Thinking).</u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Communicate effectively both orally and in writing to diverse audiences (Communication).</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Effectively communicate orally and in writing to diverse audiences(Communication).</u><br>
 
 </font>
 <br>
 <br>
 
-##### 3.	Risk-Based Evaluation of Existing Courses
-Nudge regularly collects metrics for each academic program offered. High-risk programs are identified by one or more strategic risks, such as the health of the course's operations, alignment with Nudge's vision, and market demand. Nudge uses the following metrics to identify high-risk programs:
+##### 3.	Risk-Based Evaluation of Existing Courses 
+Nudge regularly collects metrics for each academic program it offers. High-risk programs are identified as those presenting one or more strategic risks such as operational health of courses, relevance to Nudge’s vision, and market demand. Nudge uses the following indicators to identify high-risk programs: 
 
 <font color="gray">
 
-👉  <u>Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)</u><br>
+👉  <u>Student numbers and learning outcomes (admissions, student-teacher ratio, attrition rate etc.); </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents, etc.)</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents etc.); </u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Changes in instructor professional backgrounds and resources.</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Changes in instructor professional background and resources;</u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Current and effective course delivery ("Curriculum Currency").</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Currency of curriculum and effectiveness of course delivery; .</u><br>
 
-- &nbsp;&nbsp;&nbsp;<u>Learning outcomes.</u><br>
+- &nbsp;&nbsp;&nbsp;<u>Learning outcomes. </u><br>
 
 </font>
 <br>

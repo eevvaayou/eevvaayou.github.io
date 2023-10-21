@@ -51,26 +51,17 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-<font color="grey">
-
 - Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).
-  
 
 - Employ research skills in their academic work (Research).
   
-
 - Locate, evaluate, and effectively utilize information from various sources (Information Literacy).
   
-
 - Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).
   
-
 - Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
 
-
 - Communicate effectively both orally and in writing to diverse audiences (Communication).
-
-</font>
 
 <br>
 
@@ -79,21 +70,18 @@ Nudge regularly collects metrics for each academic program offered. High-risk pr
 
 <font color="grey">
 
-- Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)
+- Student numbers and outcomes (enrollment, student-to-teacher ratios, attrition rates, etc.)<br>
 
+- Stakeholder satisfaction (students, parents, etc.)<br>
 
-- Stakeholder satisfaction (students, parents, etc.)
+- Changes in instructor professional backgrounds and resources.<br>
 
+- Current and effective course delivery ("Curriculum Currency").<br>
 
-- Changes in instructor professional backgrounds and resources.
-
-
-- Current and effective course delivery ("Curriculum Currency").
-
-
-- Learning outcomes.
+- Learning outcomes.<br>
 
 </font>
+
 
 Based on the aforementioned risk assessment, Nudge adjusts its teaching strategies, determines the frequency of offering the course, or might decide to discontinue the course altogether.
  

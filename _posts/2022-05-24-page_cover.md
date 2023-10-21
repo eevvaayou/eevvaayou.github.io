@@ -28,19 +28,17 @@ This process serves as an opportunity to align courses with student needs, prima
 <font color="grey">
 
 - Will students learn content and gain knowledge essential for success in academia or their careers?<br>
-
-  
+<br>
 - Are modifications needed in our course or teaching strategies?<br>
-
-
+<br>
 - What additional techniques, resources, or materials could enhance learning effectiveness?<br>
-
+<br>
   
 - Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
-
+<br>
   
 - Are the established answer keys and grading schemes appropriate?<br>
-
+<br>
 
 </font>
 
@@ -63,7 +61,6 @@ Below are general guiding principles for evaluating learning outcomes at the pro
 - Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
 - Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
-
 <br>
 
 ##### 3.	Risk-Based Evaluation of Existing Courses

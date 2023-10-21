@@ -11,11 +11,11 @@ layout: post
 Since its inception, Nudge has been steadfast in its commitment to high-quality standards. Thus, we've implemented effective procedures to ensure our programs meet the high standards in quality, efficacy, and across all operations.
 Nudge's academic quality assurance consists of several key components:
 
-<u>Ensuring the high quality of new online courses and maintaining the quality of existing courses.</u>
+<u>1. Ensuring the high quality of new online courses and maintaining the quality of existing courses.</u>
 
-<u>Upholding high standards of instruction.</u>
+<u>2. Upholding high standards of instruction.</u>
 
-<u>Guaranteeing student achievement of learning outcomes.</u>
+<u>3. Guaranteeing student achievement of learning outcomes.</u>
 
 <br>
 Therefore, Nudge has specific, clearly defined requirements for quality assurance that stand apart from our strategic planning processes, as they represent our core business. These specifically pertain to teaching and learning, including:
@@ -28,19 +28,15 @@ This process serves as an opportunity to align courses with student needs, prima
 
 <font color="grey">
 
-- Will students learn content and gain knowledge essential for success in academia or their careers?
+- Will students learn content and gain knowledge essential for success in academia or their careers?<br>
   
-  
-- Are modifications needed in our course or teaching strategies?
-  
+- Are modifications needed in our course or teaching strategies?<br>
 
-- What additional techniques, resources, or materials could enhance learning effectiveness?
+- What additional techniques, resources, or materials could enhance learning effectiveness?<br>
   
-
-- Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?
+- Are the PowerPoint presentations and other learning resources appropriate, sufficient, and compliant?<br>
   
-  
-- Are the established answer keys and grading schemes appropriate?
+- Are the established answer keys and grading schemes appropriate?<br>
 
 </font>
 
@@ -50,17 +46,19 @@ Answering these questions helps instructors decide on the right actions and stra
 ##### 2.	Assessment of Learning Outcomes
 Below are general guiding principles for evaluating learning outcomes at the program level. These define preparing students to excel in their chosen field of study. Through their academic work and extracurricular activities in the program, students will achieve the following learning outcomes:
 
-###### Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).
+<font color="grey">
+  
+- Demonstrate knowledge and skills in a particular subject and ethically apply them in real-life settings (Subject Proficiency).<br>
 
-###### Employ research skills in their academic work (Research).
+- Employ research skills in their academic work (Research).<br>
   
-###### Locate, evaluate, and effectively utilize information from various sources (Information Literacy).
+- Locate, evaluate, and effectively utilize information from various sources (Information Literacy).<br>
   
-###### Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).
+- Analyze quantitative data and draw logical conclusions (Quantitative Reasoning).<br>
   
-###### Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
+- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).<br>
 
-###### Communicate effectively both orally and in writing to diverse audiences (Communication).
+- Communicate effectively both orally and in writing to diverse audiences (Communication).<br>
 
 <br>
 

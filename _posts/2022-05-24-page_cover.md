@@ -9,9 +9,9 @@ layout: post
 <br>
 Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all disciplines, serve as the focal points for our evaluation process. The key areas of focus pertain to teaching and learning and include:
 
-<u>1. Solicitation and appraisal of new courses,</u>
+<u>1. Solicitation and appraisal of new courses.</u>
 
-<u>2. Assessment of student learning,</u>
+<u>2. Assessment of student learning.</u>
 
 <u>3. Risk-based evaluation of existing courses.</u>
 
@@ -68,13 +68,13 @@ Nudge regularly collects metrics for each academic program it offers. High-risk 
 
 <font color="gray">
 
-👉  <u>Student numbers and learning outcomes (admissions, student-teacher ratio, attrition rate etc.); </u><br>
+👉  <u>Student numbers and learning outcomes (admissions, student-teacher ratio, attrition rate etc.). </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents etc.); </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents etc.).</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in instructor professional background and resources;</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in instructor professional background and resources.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Currency of curriculum and effectiveness of course delivery; .</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Currency of curriculum and effectiveness of course delivery.</u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Learning outcomes. </u><br>
 

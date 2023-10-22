@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
+author: nudge
 date: 2022-02-04
-category: Jekyll
+category: J
 layout: post
 ---
 
-This is an about page.
+![Alt text](https://github.com/eevvaayou/eevvaayou.github.io/blob/master/course.png)

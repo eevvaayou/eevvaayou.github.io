@@ -6,4 +6,5 @@ category: J
 layout: post
 ---
 
-![Alt text](https://github.com/eevvaayou/eevvaayou.github.io/blob/master/course.png)
+![Course Image](https://raw.githubusercontent.com/eevvaayou/eevvaayou.github.io/master/course.png)
+

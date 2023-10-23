@@ -23,13 +23,15 @@ It is imperative for instructors to maintain the confidentiality of records and 
 Due to the authoritative stature of instructors in the academic realm, they have the capacity to influence others' thoughts and actions. They also have a responsibility to recognize the potential weight of their verbal and non-verbal expressions. As leaders in the classroom, instructors have not only the responsibility to disseminate invigorating ideas and pose academic challenges but also to maintain courtesy and respect in intellectual dialogues.
 <br>
 ##### 5.Fair Treatment of All Students
-Students should be treated equitably. However, treating all students in an identical manner does not necessarily result in fairness. For instance, while some students respond positively to sincere and appropriate criticism, others might find it discouraging. Some students welcome public feedback on their work, while others might find it discomforting. Truly equitable treatment of students hinges on diligently recognizing and appreciating these differences. Both instructors and students should be vigilant against racial, religious, gender-based, and other discriminatory stereotypes.
+Students should be treated with fairness and impartiality. However, achieving equity does not necessarily mean treating all students in exactly the same way. For instance, while some students may respond positively to constructive criticism, others may find it discouraging. Some students may appreciate public feedback on their work, whereas others might feel embarrassed by it. Genuinely even-handed treatment of students depends upon making a conscientious attempt to recognize and appreciate such differences. Both teachers and students should be particularly vigilant against stereotyping based on ethnicity, religion, gender, or other discriminatory factors.
 <br>
 ##### 6.Clear Communication
-Given that a part of students' evaluations depends on their understanding of the course requisites, instructors should clearly articulate their expectations, assignments, and rules for collaboration and citation. Providing written explanations of tasks and requirements can mitigate the risk of misconceptions. Students are entitled to demand clear justifications for the instructor's assessments, just as instructors are entitled to expect timely and sincere completion of assignments by students.
+Because the evaluation of students partly depends on their understanding of the requirements of a course, instructors should be clear in their articulation of expectations, assignments, and the rules of collaboration. Providing explanations of assignments and requirements reduces the risk of misunderstanding. Students have the right to expect a clear justification of evaluation, just as instructors have the right to expect that assignments will be completed thoughtfully and on time.
+
+
 <br>
 ##### 7.Criticism
-Feedback should be directed towards the assignment/work and not the individual; it should facilitate improvement in thought and expression. Arbitrary disdain is inappropriate.
+Comments should focus on the work rather than the individual, aiming to enhance both thought processes and presentation.  Arbitrary disdain is inappropriate.Comments should focus on the work rather than the individual, aiming to enhance both thought processes and presentation.  Arbitrary disdain is inappropriate.
 <br>
 ##### 8.Interactions with Minors
 In settings requiring interactions with minors (individuals under the age of 18), instructors should cultivate and maintain an appropriate and safe environment.

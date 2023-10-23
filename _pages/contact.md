@@ -27,7 +27,6 @@ Students should be treated with fairness and impartiality. However, achieving eq
 <br>
 ##### 6.Clear Communication
 Because the evaluation of students partly depends on their understanding of the requirements of a course, instructors should be clear in their articulation of expectations, assignments, and the rules of collaboration. Providing explanations of assignments and requirements reduces the risk of misunderstanding. Students have the right to expect a clear justification of evaluation, just as instructors have the right to expect that assignments will be completed thoughtfully and on time.
-
 <br>
 
 ##### 7.Criticism

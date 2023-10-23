@@ -26,13 +26,13 @@ This process provides an opportunity for alignment between the course content an
 
 <font color="gray">
 
-👉 <u>Will students acquire knowledge that we deem important or necessary for academic/professional success??</u><br>
+👉 <u>Will students acquire the knowledge that we deem important or necessary for academic/professional success?</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are modifications required in the course structure or teaching strategies? </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are modifications needed in the course structure or teaching strategies? </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are there additional techniques, resources or materials that could enhance learning effectiveness? </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are there additional techniques, resources, or materials that could enhance the effectiveness of learning?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are PowerPoint presentations and other learning resources compatible, adequate and compliant? </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are PowerPoint presentations and other learning resources compatible, sufficient, and compliant?  </u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is the appropriateness of established answers and grading schemes ensured?</u><br>
 </font>
@@ -68,20 +68,19 @@ Nudge regularly collects metrics for each academic program it offers. High-risk 
 
 <font color="gray">
 
-👉  <u>Student numbers and learning outcomes (admissions, student-teacher ratio, attrition rate etc.). </u><br>
+👉  <u>Student enrollment and learning outcomes (including student-teacher ratio, attrition rate etc.). </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (students, parents etc.).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (including students, parents etc.).</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in instructor professional background and resources.</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in the professional background of instructors and available resources.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Currency of curriculum and effectiveness of course delivery.</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The relevance of the curriculum and effectiveness of course delivery.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Learning outcomes. </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Achievement of learning outcomes. </u><br>
 
 </font>
 <br>
 
-Based on the aforementioned risk assessment, Nudge adjusts its teaching strategies, determines the frequency of offering the course, or might decide to discontinue the course altogether.
- 
+Based on the aforementioned risk assessment, Nudge may adjust its teaching strategies, determine the frequency of course offerings, or even decide to discontinue the course altogether.
 <br>
 <br>

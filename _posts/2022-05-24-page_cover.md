@@ -32,13 +32,14 @@ This process provides an opportunity for alignment between the course content an
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are there additional techniques, resources, or materials that could enhance the effectiveness of learning?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are PowerPoint presentations and other learning resources compatible, sufficient, and compliant?  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are PowerPoints and other learning resources compatible, sufficient, and compliant?  </u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is the appropriateness of established answers and grading schemes ensured?</u><br>
 </font>
 <br>
 
-Responses to these questions assist instructors in determining appropriate actions and strategies for continuous improvement in learning experiences. Instructors are required to provide all course files for each course they host to Nudge in advance. This includes, but is not limited to, PowerPoint, database sources, literature, or other learning resources, which aid Nudge in evaluating the quality and completeness of all course files.
+Responses to these questions assist instructors in determining appropriate actions and strategies for the continuous improvement of learning experiences. Instructors are required to provide all course files for each course they host at Nudge in advance. This includes, but is not limited to, PowerPoints, database sources, literature, and other learning resources. These materials aid Nudge in evaluating the quality and completeness of all course files.
+
 <br>
 <br>
 

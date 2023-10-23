@@ -7,7 +7,7 @@ layout: post
 ---
 
 <br>
-Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all disciplines, serve as the focal points for our evaluation process. The key areas of focus pertain to teaching and learning and include:
+Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all majors, serve as the focal points for our evaluation process. The key areas of focus pertain to teaching and learning include:
 
 <u>1. Solicitation and appraisal of new courses.</u>
 
@@ -15,7 +15,7 @@ Nudge adheres to specific, well-defined standards that are integral to our core 
 
 <u>3. Risk-based evaluation of existing courses.</u>
 
-Nudge places absolute trust in its instructors, recognizing them as esteemed leaders in academia. We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed with the evaluation criteria beforehand.
+We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed with the evaluation criteria beforehand.
 <br>
 <br>
 

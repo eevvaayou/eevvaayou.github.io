@@ -47,17 +47,17 @@ The following guidelines outline the general principles for evaluating student l
 
 <font color="gray">
   
-👉 <u>Demonstrate knowledge and skills in a specific discipline and ethically apply these competencies in real-life environments. </u><br>
+👉 <u>Demonstrate knowledge and skills in a specific discipline, and apply these competencies ethically in real-life environments.  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Apply research skills in their academic work.</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Utilize research skills in academic work.</u><br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Locate, evaluate and effectively utilize information from various sources(Information Literacy).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Locate, evaluate, and effectively use information from various sources (Information Literacy).</u><br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and draw reasonable conclusions(Quantitative Reasoning).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and derive reasonable conclusions (Quantitative Reasoning).</u><br>
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Logically evaluate problems from multiple perspectives and develop reasonable and creative solutions(Critical Thinking).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Evaluate problems logically from multiple perspectives, and develop reasonable and creative solutions (Critical Thinking).</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Effectively communicate orally and in writing to diverse audiences(Communication).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Communicate effectively, both orally and in writing, to diverse audiences (Communication).</u><br>
 
 </font>
 <br>

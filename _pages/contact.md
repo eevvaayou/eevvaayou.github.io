@@ -30,7 +30,7 @@ Because the evaluation of students partly depends on their understanding of the 
 <br>
 
 ##### 7.Criticism
-Comments should focus on the work rather than the individual, aiming to enhance both thought processes and presentation.  Arbitrary disdain is inappropriate.Comments should focus on the work rather than the individual, aiming to enhance both thought processes and presentation.  Arbitrary disdain is inappropriate.
+Comments should focus on the work rather than the individual, aiming to enhance both thought processes and presentation.  Arbitrary disdain is inappropriate.
 <br>
 
 ##### 8.Interactions with Minors
@@ -38,8 +38,8 @@ In settings requiring interactions with minors (individuals under the age of 18)
 <br>
 
 ##### 9.Instructor’s specific obligations
-Instructors or company must ensure that each course is materially accurate and complete with regard to its subject matter as of the date it is delivered to NUDGE.
-b.The Instructor will not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
+a. Instructors or company must ensure that each course is materially accurate and complete with regard to its subject matter as of the date it is delivered to NUDGE.
+b. The Instructor will not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
 
 
 <br>

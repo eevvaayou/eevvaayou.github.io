@@ -38,7 +38,7 @@ This process provides an opportunity for alignment between the course content an
 </font>
 <br>
 
-Responses to these questions assist instructors in determining appropriate actions and strategies for continuous improvement in student learning experiences. Instructors are required to provide all course files for each course they host to Nudge in advance. This includes, but is not limited to, PowerPoint presentations, database sources, literature, or other learning resources, which aid Nudge in evaluating the quality and completeness of all course files.
+Responses to these questions assist instructors in determining appropriate actions and strategies for continuous improvement in learning experiences. Instructors are required to provide all course files for each course they host to Nudge in advance. This includes, but is not limited to, PowerPoint, database sources, literature, or other learning resources, which aid Nudge in evaluating the quality and completeness of all course files.
 <br>
 <br>
 

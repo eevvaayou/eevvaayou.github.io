@@ -40,7 +40,10 @@ In settings requiring interactions with minors (individuals under the age of 18)
 ##### 9.Instructor’s specific obligations
 a. Instructors or company must ensure that each course is materially accurate and complete with regard to its subject matter as of the date it is delivered to NUDGE.
 b. The Instructor will not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
+<br>
 
+##### 10.Instructors' Presence
+After establishing their teaching schedule, instructors are expected to maintain continuity in their instruction. However, short absences for unforeseen personal business or professional development during instruction are possible. Generally, absences  should not exceed one week. Instructors are expected to fulfill their assigned teaching obligations, with changes to the original teaching arrangement allowed only in exceptional cases.
 
 <br>
 <br>

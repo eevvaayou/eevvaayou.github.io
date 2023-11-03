@@ -38,7 +38,7 @@ This process aligns the course content with student needs. The primary objective
 </font>
 <br>
 
-Responses to these questions assist instructors in determining appropriate actions and strategies for the continuous improvement of learning experiences. Instructors are required to provide all course files for each course they host at Nudge in advance. This includes, but is not limited to, slides, database sources, literature, and other learning resources. These materials aid Nudge in evaluating the quality and completeness of all course files.
+Responses to these questions assist instructors in determining appropriate actions and strategies for the continuous improvement of learning experiences. Instructors are required to provide all course files for each course they intend to host at Nudge well in advance of the course start date. This includes, but is not limited to, slides, data sources, literature, and other learning resources. These materials aid the Nudge team in evaluating the quality and completeness of the course offerings.
 
 <br>
 <br>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 <br>
-Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all majors, serve as the focal points for our evaluation process. The key areas of focus pertain to teaching and learning include:
+Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all majors, serve as the focal points for our evaluation process. The key areas of focus, which pertain to teaching and learning, include:
 
 <u>1. Solicitation and appraisal of new courses.</u>
 
@@ -15,26 +15,26 @@ Nudge adheres to specific, well-defined standards that are integral to our core 
 
 <u>3. Risk-based evaluation of existing courses.</u>
 
-We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed with the evaluation criteria beforehand.
+We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed in the evaluation criteria beforehand.
 <br>
 <br>
 
 ##### 1.	Solicitation and Appraisal of New Courses 
-The quality assurance process for new courses begins with the solicitation and evaluation of new courses, initiated by Nudge. Upon contract agreement, instructors are required to submit a course outline. Following a preliminary evaluation, instructors commence course development, ensuring that the final evaluation is completed prior to the start of the course.
+Nudge’s quality assurance process begins with the solicitation and evaluation of course proposals. Upon reaching a contract agreement, instructors must submit a course outline. After a preliminary evaluation, they start developing the course, making sure to complete the final evaluation before the course begins.
 
-This process provides an opportunity for alignment between the course content and student needs. The primary objective is to gather information to address the following questions: 
+This process aligns the course content with student needs. The primary objective is to address key questions:
 
 <font color="gray">
 
-👉 <u>Will students acquire the knowledge that we deem important or necessary for academic/professional success?</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Will students gain the knowledge deemed essential for academic or professional success?</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are modifications needed in the course structure or teaching strategies? </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What necessary modifications to the course structure or teaching strategies might be needed? </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are there additional techniques, resources, or materials that could enhance the effectiveness of learning?  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Could additional techniques, resources, or materials improve learning effectiveness?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are slides and other learning resources compatible, sufficient, and compliant?  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are the slides and learning resources adequate, accessible, and in compliance with educational standards?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is the appropriateness of established answers and grading schemes ensured?</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is there a mechanism in place to ensure the appropriateness of the established answers and grading schemes?</u><br>
 </font>
 <br>
 
@@ -48,7 +48,7 @@ The following guidelines outline the general principles for evaluating student l
 
 <font color="gray">
   
-👉 <u>Demonstrate knowledge and skills in a specific discipline, and apply these competencies ethically in real-life environments.  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Demonstrate knowledge and skills in a specific discipline, and apply these competencies ethically in real-life environments.  </u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Utilize research skills in academic work.</u><br>
   
@@ -69,7 +69,7 @@ Nudge regularly collects metrics for each academic program it offers. High-risk 
 
 <font color="gray">
 
-👉  <u>Student enrollment and learning outcomes (including student-teacher ratio, attrition rate etc.). </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Student enrollment and learning outcomes (including student-teacher ratio, attrition rate etc.). </u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (including students, parents etc.).</u><br>
 

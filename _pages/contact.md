@@ -17,7 +17,7 @@ Instructors must adhere to policies and procedures on anti-bullying and non-disc
 Instructors must refrain from actions displaying extreme negligence or poor professional judgment that might endanger the health, safety, or well-being of students or the company, or unreasonably impede an individual's or the company's ability to perform their duties or undertake their educational or training programs.
 <br>
 ##### 3.Confidentiality
-It is imperative for instructors to maintain the confidentiality of records and documents related to students and employees, which can reasonably be considered as confidential. This might include employment details, personnel records, or student materials.
+It is imperative for instructors to maintain the confidentiality of records and documents related to students and employees that are considered confidential. This might include employment details, personnel records, or student materials.
 <br>
 ##### 4.Authority
 Due to the authoritative stature of instructors in the academic realm, they have the power to influence others' thoughts and actions. They have a responsibility to recognize the potential weight of their verbal and non-verbal expressions. As leaders in the classroom, instructors have not only the responsibility to disseminate invigorating ideas and pose academic challenges but also to maintain courtesy and respect in intellectual dialogues.

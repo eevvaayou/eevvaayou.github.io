@@ -38,7 +38,7 @@ In settings requiring interactions with minors (individuals under the age of 18)
 <br>
 
 ##### 9.Instructor’s specific obligations
-a. Instructors or company must ensure that each course is materially accurate and complete with regard to its subject matter as of the date it is delivered to NUDGE.<br>
+a. Instructors must ensure that each course is materially accurate and complete with regard to its subject matter as of the date it is delivered to NUDGE.<br>
 b. The Instructor will not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
 <br>
 

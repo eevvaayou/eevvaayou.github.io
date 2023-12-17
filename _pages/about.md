@@ -7,9 +7,9 @@ layout: post
 ---
 <br>
 
-Thank you for stepping up and partnering with us to create opportunities for learning and fostering brighter hopes. In our collaboration, we will strive to streamline processes to ensure efficiency. 
+In our collaboration, we will optimize workflows to ensure efficiency.
 
-You'll be working with students from diverse backgrounds, each with their unique learning styles and paces. We hope as you guide them on their incredible journeys that you will have similarly pleasant surprises.
+You'll be working with students from diverse backgrounds, each with their distinct learning styles and paces. We hope as you guide them on their incredible journeys that you will have similarly pleasant surprises. 
 <br>
 <br>
 <br>

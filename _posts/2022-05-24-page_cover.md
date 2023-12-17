@@ -7,7 +7,7 @@ layout: post
 ---
 
 <br>
-Nudge adheres to specific, well-defined standards that are integral to our core operations for ensuring course quality. These standards, applicable across all majors, serve as the focal points for our evaluation process. The key areas of focus, which pertain to teaching and learning, include:
+Nudge ensures course quality through a set of clear standards applicable to all majors. These standards, which are the focus of our evaluation process, primarily concern teaching and learning：
 
 <u>1. Solicitation and appraisal of new courses.</u>
 
@@ -71,7 +71,7 @@ Nudge regularly collects metrics for each academic program it offers. High-risk 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Student enrollment and learning outcomes (including student-teacher ratio, attrition rate etc.). </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (including students, parents etc.).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (including students etc.).</u><br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in the professional background of instructors and available resources.</u><br>
 

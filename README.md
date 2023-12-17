@@ -8,9 +8,16 @@ permalink: /
 #### To our instructors
 
 
-As Nudge strives to enhance online education, we've drawn insights from esteemed online platforms and reputable academic institutions. These insights inform our approach to designing learning experiences tailored to the unique aspects of online learning. Understanding the ever-evolving nature of this educational landscape, we emphasize adaptability in our methods. 
+We knew that most of the people who would eventually join Nudge likely hadn’t even heard of us yet, the handbook was our way of ensuring that information sharing was efficient and easy.
 
- 🙋‍♀️ Your feedback is invaluable to us, helping us tailor our courses to the diverse needs of our learners. We are dedicated to providing quality services with full transparency, always seeking growth in what we offer.
+We draw insights from esteemed online platforms and academic institutions, combining them with our own accumulated cases to optimize our work. Just like our other work, we also constantly adjust our values and strive to make them better.
+
+Our work is largely dependent on the contributions of our instructors, and as such, we are committed to building an effective framework to ensure their interests are protected. We greatly welcome feedback from our instructors. We also recognize that we have a global audience and that may bring different interpretations. If you have any questions or need further clarification please contact us.
+
+Remember that everything is in draft at Nudge and subject to change, this includes our handbook.
+
+
+
 
 
 <br>

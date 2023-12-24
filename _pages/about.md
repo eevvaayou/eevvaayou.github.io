@@ -7,9 +7,9 @@ layout: post
 ---
 <br>
 
-In our collaboration, we will optimize workflows to ensure efficiency.
+In our joint effort, we're committed to streamlining workflows for heightened efficiency.
 
-You'll be working with students from diverse backgrounds, each with their distinct learning styles and paces. We hope as you guide them on their incredible journeys that you will have similarly pleasant surprises. 
+You'll mentor students from a spectrum of backgrounds, each with distinct learning approaches and rhythms. We hope as you guide them on their incredible journeys that you will have similarly pleasant surprises. 
 <br>
 <br>
 <br>

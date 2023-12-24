@@ -7,44 +7,45 @@ layout: post
 ---
 
 <br>
-Nudge ensures course quality through a set of clear standards applicable to all majors. These standards, which are the focus of our evaluation process, primarily concern teaching and learning：
+Nudge upholds course quality via distinct standards that apply across all academic disciplines. These standards, integral to our evaluation process, focus predominantly on aspects of teaching and learning:
 
-<u>1. Solicitation and appraisal of new courses.</u>
+<u>1. Solicitation and assessment of new courses.</u>
 
-<u>2. Assessment of student learning.</u>
+<u>2. Evaluation of student learning outcomes.</u>
 
-<u>3. Risk-based evaluation of existing courses.</u>
+<u>3. Risk-oriented appraisal of existing courses.</u>
 
-We strive to maintain efficiency in course development to prevent undue burden on our instructors, who are already engaged in extensive research activities. Therefore, it is essential for instructors to be well-versed in the evaluation criteria beforehand.
+We aim to optimize course development efficiency to alleviate any extra load on our instructors, who are already deeply involved in research activities. Consequently, it’s essential for instructors to understand the evaluation standards in advance.
+
 <br>
 <br>
 
-##### 1.	Solicitation and Appraisal of New Courses 
-Nudge’s quality assurance process begins with the solicitation and evaluation of course proposals. Upon reaching a contract agreement, instructors must submit a course outline. After a preliminary evaluation, they start developing the course, making sure to complete the final evaluation before the course begins.
+##### 1.	Soliciting and Evaluating New Courses
+Nudge's process of quality assurance initiates with gathering and evaluating course proposals. Upon contract finalization, instructors are tasked with submitting a course outline. After an initial evaluation, course development ensues, with a focus on completing a thorough evaluation before the course begins.
 
-This process aligns the course content with student needs. The primary objective is to address key questions:
+This procedure ensures a harmonization of course content with the needs of students. Its foremost goal is to address pivotal questions:
 
 <font color="gray">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Will students gain the knowledge deemed essential for academic or professional success?</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Will students attain the knowledge essential for success in academia or their profession?</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What necessary modifications to the course structure or teaching strategies might be needed? </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What critical adjustments might be required for the course design or teaching methods? </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Could additional techniques, resources, or materials improve learning effectiveness?  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Could the addition of certain techniques, resources, or materials boost learning efficiency?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are the slides and learning resources adequate, accessible, and in compliance with educational standards?  </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Do the presentation slides and educational materials meet adequacy, accessibility, and educational standards?  </u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is there a mechanism in place to ensure the appropriateness of the established answers and grading schemes?</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is a system established to ensure the validity of predefined answers and grading procedures?</u><br>
 </font>
 <br>
 
-Responses to these questions assist instructors in determining appropriate actions and strategies for the continuous improvement of learning experiences. Instructors are required to provide all course files for each course they intend to host at Nudge well in advance of the course start date. This includes, but is not limited to, slides, data sources, literature, and other learning resources. These materials aid the Nudge team in evaluating the quality and completeness of the course offerings.
+The responses to these questions are instrumental for instructors in formulating relevant actions and strategies to perpetually improve learning experiences. Instructors are expected to supply all necessary course documents for each course they are set to lead at Nudge, ahead of its start. This requirement covers a range of materials such as slides, data sources, literary works, and various learning aids. These elements assist the Nudge team in assessing the courses' quality and thoroughness.
 
 <br>
 <br>
 
-##### 2. Learning Outcome Evaluation 
-The following guidelines outline the general principles for evaluating student learning outcomes. These principles define our approach towards preparing students for success in their chosen subjects. Students are expected to achieve the following learning outcomes through their academic activities during the course cycle:
+##### 2. Evaluation of Learning Outcomes
+This set of guidelines provides an overview of the key principles for the assessment of student learning outcomes. These principles frame our methodology for facilitating student success in their chosen disciplines. During the course cycle, students are expected to accomplish specific learning outcomes as a result of their academic pursuits:
 
 <font color="gray">
   
@@ -64,24 +65,26 @@ The following guidelines outline the general principles for evaluating student l
 <br>
 <br>
 
-##### 3.	Risk-Based Evaluation of Existing Courses 
-Nudge regularly collects metrics for each academic program it offers. High-risk programs are identified as those presenting one or more strategic risks such as operational health of courses, relevance to Nudge’s vision, and market demand. Nudge uses the following indicators to identify high-risk programs: 
+##### 3.	Risk-Adjusted Evaluation of Current Courses
+Nudge consistently assembles metrics for each of its academic offerings. Programs considered high-risk exhibit one or more strategic concerns, such as course operational health, alignment with Nudge’s objectives, and market demand. Nudge employs the subsequent indicators to discern high-risk programs:
 
 <font color="gray">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Student enrollment and learning outcomes (including student-teacher ratio, attrition rate etc.). </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Student enrollment metrics and learning achievements.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction (including students etc.).</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Satisfaction ratings from stakeholders, including students.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in the professional background of instructors and available resources.</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Shifts in the instructors' professional expertise and resource availability.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The relevance of the curriculum and effectiveness of course delivery.</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>The applicability of the curriculum and the efficacy of course instruction.</u><br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Achievement of learning outcomes. </u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Successful attainment of specified learning outcomes. </u><br>
 
 </font>
 <br>
 
-Based on the aforementioned risk assessment, Nudge may adjust its teaching strategies, determine the frequency of course offerings, or even decide to discontinue the course altogether.
+Following the risk assessment mentioned above, Nudge may reconsider the offering frequency of some courses, or even choose to discontinue them entirely.
+
+
 <br>
 <br>

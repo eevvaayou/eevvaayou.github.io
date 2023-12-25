@@ -20,7 +20,7 @@ We aim to optimize course development efficiency to alleviate extra load on our 
 <br>
 <br>
 
-##### 1.	Soliciting and Evaluating New Courses
+##### 1.	Solicitation and assessment of new courses
 
 At Nudge, the quality assurance process begins with the collection and evaluation of course proposals. Once the contract is finalized, instructors are required to submit a course outline. Following an initial review, course development starts, emphasizing a comprehensive evaluation before the course launch.
 

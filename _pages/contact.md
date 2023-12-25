@@ -11,13 +11,13 @@ The following text is intended to serve as a foundation for discussions among in
 <br>
 
 ##### 1.Anti-Bullying and Non-Discrimination
-Instructors must adhere to policies and procedures on anti-bullying and non-discrimination.
+Instructors are required to strictly adhere to established policies and procedures regarding anti-bullying and non-discrimination. This includes actively fostering an inclusive and respectful environment for all students and staff.
 <br>
 ##### 2.Professional Conduct and Judgment
-Instructors must refrain from actions displaying extreme negligence or poor professional judgment that might endanger the health, safety, or well-being of students or the company, or unreasonably impede an individual's or the company's ability to perform their duties or undertake their educational or training programs.
+Instructors must avoid any actions that demonstrate extreme negligence or poor professional judgment. Such behaviors can jeopardize the health, safety, or well-being of students and staff, or hinder the individual’s or company’s operational effectiveness and educational or training objectives.
 <br>
 ##### 3.Confidentiality
-It is imperative for instructors to maintain the confidentiality of records and documents related to students and employees that are considered confidential. This might include employment details, personnel records, or student materials.
+Instructors are entrusted with the crucial responsibility of maintaining the confidentiality of sensitive records and documents. This includes, but is not limited to, employment details, personnel records, and student materials. Strict adherence to confidentiality protocols is mandatory.
 <br>
 ##### 4.Authority
 Due to the authoritative stature of instructors in the academic realm, they have the power to influence others' thoughts and actions. They have a responsibility to recognize the potential weight of their verbal and non-verbal expressions. As leaders in the classroom, instructors have not only the responsibility to disseminate invigorating ideas and pose academic challenges but also to maintain courtesy and respect in intellectual dialogues.
@@ -26,7 +26,7 @@ Due to the authoritative stature of instructors in the academic realm, they have
 Students should be treated fairly and impartially. However, achieving equity does not necessarily mean treating all students identically. For example, while some students may thrive on constructive criticism, others may find it demotivating. Similarly, while public feedback on work may be encouraging for some, it might cause embarrassment for others. Genuine even-handedness in treating students involves a conscious effort to acknowledge and respect these differences. Both teachers and students should be particularly vigilant against stereotypes based on ethnicity, religion, gender, or any other discriminatory factors.
 <br>
 ##### 6.Clear Communication
-Because the evaluation of students partly depends on their understanding of the requirements of a course, instructors should be clear in their articulation of expectations, assignments, and the rules of collaboration. Providing explanations of assignments and requirements reduces the risk of misunderstanding. Students are entitled to a clear justification for their evaluations, just as instructors rightfully expect assignments to be completed thoughtfully and in a timely manner.
+Clear communication from instructors is crucial as students’ evaluations partly hinge on their understanding of course requirements. Instructors should articulate expectations, assignments, and collaboration rules with precision. This includes providing detailed explanations of assignments and requirements to minimize misunderstandings. Likewise, students deserve a clear rationale for their evaluations, paralleling the instructors’ rightful expectation of assignments being completed thoughtfully and punctually.
 <br>
 
 ##### 7.Criticism
@@ -38,11 +38,11 @@ In settings requiring interactions with minors (individuals under the age of 18)
 <br>
 
 ##### 9.Restrictions
-The Instructor shall not post or provide any illegal, inappropriate, offensive, racist, hateful, sexist, pornographic or infringing material.
+Instructors are strictly prohibited from posting, providing, or engaging in any form of communication that includes illegal, inappropriate, offensive, racist, sexist, hateful, pornographic, or any other infringing material. This extends to all forms of interaction and communication, both within and outside the classroom setting. Violation of these standards may result in termination of employment.
 <br>
 
 ##### 10.Teaching Schedule and Responsibilities
-Following the establishment of a teaching schedule, instructors must ensure a steady, continuous teaching process. Short-term absences due to unforeseen personal events or career development during the teaching period can be factored in, typically not surpassing one week. Instructors have a duty to perform their assigned teaching roles faithfully, with changes to the original teaching plan permitted only under special and uncommon circumstances.
+Teaching Schedule and Responsibilities: Once a teaching schedule is established, instructors are responsible for ensuring a consistent and uninterrupted teaching process. While short-term absences for unforeseen personal events or career development are understandable, these should generally not exceed one week. Instructors are obliged to adhere to their designated teaching roles. Any deviations from the original teaching plan should be rare and justified only under extraordinary circumstances.
 
 <br>
 <br>

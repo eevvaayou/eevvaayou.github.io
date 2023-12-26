@@ -38,11 +38,11 @@ In settings requiring interactions with minors (individuals under the age of 18)
 <br>
 
 ##### 9.Restrictions
-Instructors are strictly prohibited from posting, providing, or engaging in any form of communication that includes illegal, inappropriate, offensive, racist, sexist, hateful, pornographic, or any other infringing material. This extends to all forms of interaction and communication, both within and outside the classroom setting. Violation of these standards may result in termination of collaboration.
+Instructors are strictly prohibited from posting, providing, or engaging in any form of communication that includes illegal, inappropriate, offensive, racist, sexist, hateful, pornographic, or any other infringing material. This extends to all forms of interaction and communication, both within and outside the course setting. Violation of these standards may result in termination of collaboration.
 <br>
 
 ##### 10.Teaching Schedule and Responsibilities
-Teaching Schedule and Responsibilities: Once a teaching schedule is established, instructors are responsible for ensuring a consistent and uninterrupted teaching process. While short-term absences for unforeseen personal events or career development are understandable, these should generally not exceed one week. Instructors are obliged to adhere to their designated teaching roles. Any deviations from the original teaching plan should be rare and justified only under extraordinary circumstances.
+Once a teaching schedule is established, instructors are responsible for ensuring a consistent and uninterrupted teaching process. While short-term absences for unforeseen personal events or career development are understandable, these should generally not exceed one week. Instructors are obliged to adhere to their designated teaching roles. Any deviations from the original teaching plan should be rare and justified only under extraordinary circumstances.
 
 <br>
 <br>

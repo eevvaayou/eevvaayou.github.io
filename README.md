@@ -8,7 +8,7 @@ permalink: /
 #### To our instructors
 
 
-🧩 We realize that many who choose to join Nudge may not have previously known about us, therefore, our handbook acts as a effective method for disseminating information.
+🧩 We realize that many who choose to join Nudge may not have previously known about us, therefore, our handbook acts as an effective method for disseminating information.
 
 We gather insights from esteemed online platforms and academic institutions, merging these with our own compiled cases to enhance our work. As with all our initiatives, we continually refine our services and values, aiming for continuous improvement.
 

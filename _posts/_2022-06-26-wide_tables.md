@@ -1,4 +1,3 @@
-
 ---
 title: Course Quality Checklist
 author: nudge

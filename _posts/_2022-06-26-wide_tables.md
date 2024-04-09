@@ -1,36 +1,47 @@
----
-title: Wide tables
-author: Tao He
+<img width="170" alt="image" src="https://github.com/eevvaayou/eevvaayou.github.io/assets/134821484/01670910-4bde-4416-89e9-a3b2f01b481e"><img width="230" alt="image" src="https://github.com/eevvaayou/eevvaayou.github.io/assets/134821484/2103308d-3975-4d2a-ba66-5c5613a9881a">---
+title: Course Quality Checklist
+author: nudge
 date: 2022-06-26
-category: Jekyll
+category: J
 layout: post
 ---
 
-A wide tables needs to be wrapped into a `div` with class `table-wrapper`
-to make sure it displayed as expected on mobile devices. For example,
+The minimum course requirements checklist
 
-```markdown
-<div class="table-wrapper" markdown="block">
+### Time Requirement
+At least 50 minutes per session. 
+At least 2 consecutive sessions per teaching day.
+Note: Time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
 
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
+### Educational Value
+Valuable educational content. 
 
-</div>
-```
+### Audio-Visual Requirements
+Ensure high-definition video quality. 
+Audio must be clear and not disruptive for students. 
+Utilize a landscape format for display. 
+Access the course via computer.
 
-Will be rendered as
+### Tools for Teaching
+Ensure slides are clear and systematically arranged. 
+Provide supplementary educational materials, such as readings, code, and datasets.
 
-<div class="table-wrapper" markdown="block">
+### Testing Services 
+We recommend contacting us at your earliest convenience for testing services, to obtain personalized support and feedback on your audio and video quality.
 
-|title1|title2|title3|title4|title5|title6|title7|title8|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
-|1|2|3|4|5|6|7|8|
+### Policy Compliance
+Ensure adherence to our legal terms and Instructor Conduct Guidelines.
 
-</div>
+### Homework
+
+
+
+
+
+
+
+
+
+
+
+

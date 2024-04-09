@@ -1,4 +1,4 @@
-<img width="170" alt="image" src="https://github.com/eevvaayou/eevvaayou.github.io/assets/134821484/01670910-4bde-4416-89e9-a3b2f01b481e"><img width="230" alt="image" src="https://github.com/eevvaayou/eevvaayou.github.io/assets/134821484/2103308d-3975-4d2a-ba66-5c5613a9881a">---
+
 title: Course Quality Checklist
 author: nudge
 date: 2022-06-26

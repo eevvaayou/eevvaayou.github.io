@@ -47,7 +47,6 @@ Instructors’ responses to these questions are crucial in developing effective 
 
 ##### 2. Evaluation of Learning Outcomes
 These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：
-<font color="gray">
   
 - Demonstrate knowledge and skills in a specific discipline and apply these competencies ethically in real-life environments.  
 
@@ -61,7 +60,7 @@ These guidelines outline the key principles for assessing student learning outco
 
 - Communicate effectively, both orally and in writing, to diverse audiences (Communication).
 
-</font>
+
 <br>
 <br>
 
@@ -69,7 +68,6 @@ These guidelines outline the key principles for assessing student learning outco
 
 Nudge consistently assembles metrics for each of its academic offerings. High-risk programs exhibit one or more strategic concerns, such as course operational health, alignment with Nudge’s objectives, and market demand. Nudge employs the following indicators to identify high-risk programs:
 
-<font color="gray">
 
 - Student enrollment and achievement metrics.
 
@@ -81,7 +79,6 @@ Nudge consistently assembles metrics for each of its academic offerings. High-ri
 
 - Successful attainment of specified learning outcomes. 
 
-</font>
 <br>
 
 Following the risk assessment mentioned above, Nudge may reconsider some courses' offering frequency, or even discontinue them entirely.

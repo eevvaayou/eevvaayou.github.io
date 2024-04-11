@@ -4,6 +4,12 @@
 
         {%- include head.html -%}
 
+        <style>
+            a:hover {
+                color: gold;
+            }
+        </style>
+
         {% assign reversed_posts = site.posts | reverse %}
 
         {% if reversed_posts %}

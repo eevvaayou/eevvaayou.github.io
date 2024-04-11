@@ -3,18 +3,12 @@
     <head>
 
         {%- include head.html -%}
-
         <style>
-            a {
-                color: gold;!important;
-            }
-
-            a:hover {
-                color: #FFB300;!important;
-            }
-        </style>
-
-
+           /* 设置所有链接的颜色为黄色 */
+           a {
+               color: yellow !important;
+           }
+    </style>      
         {% assign reversed_posts = site.posts | reverse %}
 
         {% if reversed_posts %}

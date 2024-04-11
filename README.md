@@ -6,10 +6,9 @@ permalink: /
 
 
 
-
 <div style="background-color: lightgrey; padding: 10px;">
-
-#### To our instructors
+  
+<span style="font-weight:bold;">## To our instructors</span>
 
 🧩 We realize that many who choose to join Nudge may not have previously known about us. Therefore, our handbook acts as an effective method for disseminating information.
 

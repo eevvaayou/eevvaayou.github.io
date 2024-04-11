@@ -27,18 +27,17 @@ At Nudge, the quality assurance process begins with collecting and evaluating co
 
 This procedure aligns course content with student needs. The main objectives are to answer key questions:
 
-<font color="gray">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Do the courses equip students with essential knowledge for academic or professional success?</u><br>
+- Do the courses equip students with essential knowledge for academic or professional success?
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>What are the necessary adjustments for course design or teaching methods?  </u><br>
+- What are the necessary adjustments for course design or teaching methods? 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Can new techniques, resources, or materials enhance learning efficiency?  </u><br>
+- Can new techniques, resources, or materials enhance learning efficiency? 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Are the slides and educational materials adequate, accessible, and up to educational standards? </u><br>
+- Are the slides and educational materials adequate, accessible, and up to educational standards? 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Is there a system to validate predefined answers and grading methods?</u><br>
-</font>
+- Is there a system to validate predefined answers and grading methods?
+
 <br>
 
 Instructors’ responses to these questions are crucial in developing effective actions and strategies to continuously improve learning experiences. Before it starts, they must provide all required course documents for each course they lead at Nudge. This includes slides, data sources, literary works, and various learning aids, aiding the Nudge team in evaluating the course’s quality and comprehensiveness.

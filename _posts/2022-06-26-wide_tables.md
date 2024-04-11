@@ -20,7 +20,7 @@ layout: post
 
 **Class Support:** Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
 
-#### <span style="color:gold; font-weight:#ffb300;">2. Course Design Framework</span>
+#### <span style="color:#ffb300; font-weight:#ffb300;">2. Course Design Framework</span>
 
 The structured design of the course should consider aspects such as learning objectives, content, learning activities, project management for course completion, and completion standards. Below is a basic template for standard course design.
 
@@ -34,7 +34,7 @@ The structured design of the course should consider aspects such as learning obj
 
 **Assessment Criteria:** Specify the standard criteria for the final assessments to ensure fairness and consistency in evaluation. Students must meet the expected requirements to complete the course.
 
-#### <span style="color:gold; font-weight:#ffb300;">3. Homework Management</span>
+#### <span style="color:#ffb300; font-weight:#ffb300;">3. Homework Management</span>
 
 **Clear Expectations and Workload:** Tutors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. Tutors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' School learning tasks, if a tutor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
 

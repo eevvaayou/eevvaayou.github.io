@@ -4,7 +4,7 @@ title: Nudge Handbook
 permalink: /
 ---
 
-```markdown
+
 <style>
 .markdown-body {
   background-color: #f9f9f9;
@@ -15,6 +15,7 @@ permalink: /
 </style>
 
 <div class="markdown-body">
+  
 #### To our instructors
 
 

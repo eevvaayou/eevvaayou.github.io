@@ -49,17 +49,17 @@ Instructors’ responses to these questions are crucial in developing effective 
 These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：
 <font color="gray">
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Demonstrate knowledge and skills in a specific discipline and apply these competencies ethically in real-life environments.  </u><br>
+- Demonstrate knowledge and skills in a specific discipline and apply these competencies ethically in real-life environments.  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Utilize research skills in academic work.</u><br>
+- Utilize research skills in academic work.
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Locate, evaluate, and effectively use information from various sources (Information Literacy).</u><br>
+- Locate, evaluate, and effectively use information from various sources (Information Literacy).
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Analyze quantitative data and derive reasonable conclusions (Quantitative Reasoning). (Quantitative Reasoning).</u><br>
+- Analyze quantitative data and derive reasonable conclusions (Quantitative Reasoning). (Quantitative Reasoning).
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).</u><br>
+- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Communicate effectively, both orally and in writing, to diverse audiences (Communication).</u><br>
+- Communicate effectively, both orally and in writing, to diverse audiences (Communication).
 
 </font>
 <br>
@@ -71,15 +71,15 @@ Nudge consistently assembles metrics for each of its academic offerings. High-ri
 
 <font color="gray">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Student enrollment and achievement metrics.</u><br>
+- Student enrollment and achievement metrics.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Stakeholder satisfaction ratings, especially from students.</u><br>
+- Stakeholder satisfaction ratings, especially from students.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Changes in instructors' expertise and resource availability.</u><br>
+- Changes in instructors' expertise and resource availability.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Course applicability and instructional effectiveness.</u><br>
+- Course applicability and instructional effectiveness.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Successful attainment of specified learning outcomes. </u><br>
+- Successful attainment of specified learning outcomes. 
 
 </font>
 <br>

@@ -8,7 +8,11 @@ layout: post
 
 
 
+
+
+
 ### Standardized Course
+
 
 **Delivery:** interactive group online courses. 
 
@@ -21,7 +25,8 @@ layout: post
 **Class Support:** Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
 
 
-### Course Design Framework: 
+### Course Design Framework
+
 
 The structured design of the course should consider aspects such as learning objectives, content, learning activities, project management for course completion, and completion standards. Below is a basic template for standard course design.
 
@@ -36,7 +41,8 @@ The structured design of the course should consider aspects such as learning obj
 **Assessment Criteria:** Specify the standard criteria for the final assessments to ensure fairness and consistency in evaluation. Students must meet the expected requirements to complete the course.
 
 
-### Homework Management:
+### Homework Management
+
 
 **Clear Expectations and Workload:** Tutors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. Tutors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' School learning tasks, if a tutor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
 
@@ -49,14 +55,16 @@ If no homework software is needed, tutors can choose to have students submit hom
 **Pre-Class Assessment and Feedback:** The tutors should review all student work at least one day before class. Feedback and evaluation of student homework during class should not exceed 15 minutes, not excessively occupying normal class time.
 
 
-### The Final Project:
+### The Final Project
+
 
 **Determining Final Project Topics:** By the third week of the course or earlier, the tutors need to assist each student in determining their final project topic/research topic to ensure that students have enough time to prepare and complete it before the end of the course. The estimated completion time for the final project assignment should be between 20 and 30 hours. The tutors should regularly monitor the progress students are making with their projects and provide feedback and support.
 
 **Final Project Formats:** The tutors can design final project assignments as research proposals, modeling and design projects, software development, or other practical projects. The tutors should provide further guidance to students who may produce conference papers after the course ends. We will limit the guidance time to approximately four hours four weeks after the course ends.
 
 
-### Course Conclusion:
+### Course Conclusion
+
 
 **Final Project Presentation:** The students are required to present their final projects in the last week of the course. For courses with a large number of registrants, the tutors may limit the number of presenters, such as selecting students who volunteer to present individually or in groups. Students who do not present their final projects will submit their results online to the company and the tutors for final evaluation.
 
@@ -65,7 +73,8 @@ If no homework software is needed, tutors can choose to have students submit hom
 **Recommendation Letters:** The tutors should write recommendation letters for outstanding students with specific needs. When writing recommendation letters or evaluations, the tutors should provide specific descriptions of student achievements and abilities. However, the writing of recommendation letters is not mandatory.
 
 
-### Course Materials:
+### Course Materials
+
 
 **Material Submission:** Tutors are required to submit all course materials one week before the start of the teaching session to allow the company sufficient time to review and prepare.
 
@@ -74,7 +83,7 @@ If no homework software is needed, tutors can choose to have students submit hom
 **Review and Updates:** Tutors should regularly review course materials to ensure accuracy and completeness and make updates and adjustments as necessary.
 
 
-### Hourly Rate:
+### Hourly Rate
 
 The tutors' hourly rates generally remain stable, but to ensure fairness and transparency, rates may vary based on market demand, tutors' roles, and the overall value of the courses provided.
 We will provide tutors with an explanation of how hourly rates are calculated and factors affecting changes in advance and reach a consensus before the course begins.

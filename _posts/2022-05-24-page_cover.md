@@ -48,8 +48,6 @@ Instructors’ responses to these questions are crucial in developing effective 
 #### <span style="color:#ffb300; font-weight:bold;">2. Evaluation of Learning Outcomes</span>
 
 <span style="color: black; font-weight:bold;">These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：</span>
-
-These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：
   
 - Demonstrate knowledge and skills in a specific discipline and apply these competencies ethically in real-life environments. 
 

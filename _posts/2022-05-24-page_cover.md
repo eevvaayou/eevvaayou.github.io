@@ -7,6 +7,9 @@ layout: post
 ---
 
 <br>
+
+<span style="color:#ffb300; font-weight:bold;">Our program upholds course quality through specific standards applicable across all academic disciplines. These standards, fundamental to our evaluation process, mainly focus on teaching and learning aspects:</span>
+
 Our program upholds course quality through specific standards applicable across all academic disciplines. These standards, fundamental to our evaluation process, mainly focus on teaching and learning aspects:
 
 <u>1. Solicitation and assessment of new courses.</u>
@@ -20,8 +23,12 @@ We aim to optimize course development efficiency to alleviate the extra load on 
 <br>
 <br>
 
-##### 1.	Solicitation and assessment of new courses
+#### <span style="color:#ffb300; font-weight:bold;">1.	Solicitation and assessment of new courses</span>
 
+<span style="color:#ffb300; font-weight:bold;">At Nudge, the quality assurance process begins with collecting and evaluating course proposals. Once the contract is finalized, instructors are required to submit a course outline. Following an initial review, course development starts, emphasizing a comprehensive evaluation before the course launch.
+
+This procedure aligns course content with student needs. The main objectives are to answer key questions:
+</span>
 
 At Nudge, the quality assurance process begins with collecting and evaluating course proposals. Once the contract is finalized, instructors are required to submit a course outline. Following an initial review, course development starts, emphasizing a comprehensive evaluation before the course launch.
 
@@ -45,7 +52,9 @@ Instructors’ responses to these questions are crucial in developing effective 
 <br>
 <br>
 
-##### 2. Evaluation of Learning Outcomes
+#### <span style="color:#ffb300; font-weight:bold;">2. Evaluation of Learning Outcomes</span>
+<span style="color:#ffb300; font-weight:bold;">These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：</span>
+
 These guidelines outline the key principles for assessing student learning outcomes. These principles direct our strategy to enhance student success. During the course, students are expected to achieve specific learning outcomes：
   
 - Demonstrate knowledge and skills in a specific discipline and apply these competencies ethically in real-life environments.  
@@ -64,7 +73,9 @@ These guidelines outline the key principles for assessing student learning outco
 <br>
 <br>
 
-##### 3. Assessment of existing courses for potential risks
+#### <span style="color:#ffb300; font-weight:bold;">3. Assessment of existing courses for potential risks</span>
+
+<span style="color:#ffb300; font-weight:bold;">Nudge consistently assembles metrics for each of its academic offerings. High-risk programs exhibit one or more strategic concerns, such as course operational health, alignment with Nudge’s objectives, and market demand. Nudge employs the following indicators to identify high-risk programs:</span>
 
 Nudge consistently assembles metrics for each of its academic offerings. High-risk programs exhibit one or more strategic concerns, such as course operational health, alignment with Nudge’s objectives, and market demand. Nudge employs the following indicators to identify high-risk programs:
 

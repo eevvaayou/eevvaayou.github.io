@@ -19,7 +19,7 @@ layout: post
 
 **Class Support:** Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
 
-### <span style="color:indianred; font-weight:bold;">2.Course Design Framework</span>
+### <span style="color:gold; font-weight:bold;">2.Course Design Framework</span>
 
 The structured design of the course should consider aspects such as learning objectives, content, learning activities, project management for course completion, and completion standards. Below is a basic template for standard course design.
 

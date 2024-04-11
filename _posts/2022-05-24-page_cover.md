@@ -23,10 +23,7 @@ We aim to optimize course development efficiency to alleviate the extra load on 
 
 #### <span style="color:#ffb300; font-weight:bold;">1.	Solicitation and assessment of new courses</span>
 
-<span style="color: black; font-weight:bold;">At Nudge, the quality assurance process begins with collecting and evaluating course proposals. Once the contract is finalized, instructors are required to submit a course outline. Following an initial review, course development starts, emphasizing a comprehensive evaluation before the course launch.
-
-This procedure aligns course content with student needs. The main objectives are to answer key questions:
-</span>
+<span style="color: black; font-weight:bold;">At Nudge, the quality assurance process begins with collecting and evaluating course proposals. Once the contract is finalized, instructors are required to submit a course outline. Following an initial review, course development starts, emphasizing a comprehensive evaluation before the course launch. This procedure aligns course content with student needs. The main objectives are to answer key questions:</span>
 
 - Do the courses equip students with essential knowledge for academic or professional success?
 
@@ -38,9 +35,8 @@ This procedure aligns course content with student needs. The main objectives are
 
 - Is there a system to validate predefined answers and grading methods?
 
-<br>
+<span style="color: black; font-weight:bold;">Instructors‘responses to these questions are crucial in developing effective actions and strategies to continuously improve learning experiences. Before it starts, they must provide all required course documents for each course they lead at Nudge. This includes slides, data sources, literary works, and various learning aids, aiding the Nudge team in evaluating the course’s quality and comprehensiveness.</span>
 
-Instructors’ responses to these questions are crucial in developing effective actions and strategies to continuously improve learning experiences. Before it starts, they must provide all required course documents for each course they lead at Nudge. This includes slides, data sources, literary works, and various learning aids, aiding the Nudge team in evaluating the course’s quality and comprehensiveness.
 
 <br>
 <br>
@@ -79,9 +75,7 @@ Instructors’ responses to these questions are crucial in developing effective 
 
 - Successful attainment of specified learning outcomes. 
 
-<br>
-
-Following the risk assessment mentioned above, Nudge may reconsider some courses' offering frequency, or even discontinue them entirely.
+<span style="color: black; font-weight:bold;">Following the risk assessment mentioned above, Nudge may reconsider some courses' offering frequency, or even discontinue them entirely.</span>
 
 
 <br>

@@ -7,7 +7,7 @@ layout: post
 ---
 
 
-### <span style="color:indianred; font-weight:bold;">1.Standardized Course</span>
+### <span style="color:mediumorchid; font-weight:bold;">1.Standardized Course</span>
 
 **Delivery:** interactive group online courses. 
 

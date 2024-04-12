@@ -40,9 +40,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Assignment Planning:** Students should be informed in advance of their weekly homework tasks and deadlines to allow for proper time management.
 
-- **Streamlining Management Tools:** Tutors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite tutors to join. (We invite the tutors to tell us if they have more suitable homework software.)
-
-If no homework software is needed, tutors can choose to have students submit homework and provide feedback to students via email. This method requires tutors and students to cc the class supervisor on all communications.
+- **Streamlining Management Tools:** Tutors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite tutors to join. (We invite the tutors to tell us if they have more suitable homework software.) If no homework software is needed, tutors can choose to have students submit homework and provide feedback to students via email. This method requires tutors and students to cc the class supervisor on all communications.
 
 - **Pre-Class Assessment and Feedback:** The tutors should review all student work at least one day before class. Feedback and evaluation of student homework during class should not exceed 15 minutes, not excessively occupying normal class time.
 

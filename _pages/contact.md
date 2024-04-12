@@ -8,6 +8,7 @@ layout: post
 <br>
 
 **The following text is intended to serve as a foundation for discussions among instructors, teaching assistants, and other pedagogical support personnel.**
+
 <br>
 
 ##### <span style="color:#ffb300; font-weight:bold;">1. Anti-Bullying and Non-Discrimination</span>

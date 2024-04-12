@@ -10,6 +10,7 @@ layout: post
 
 <br>
 <br>
+
 ##### <span style="color:#ffb300; font-weight:bold;">1. Anti-Bullying and Non-Discrimination</span>
 Instructors must strictly adhere to established policies and procedures regarding anti-bullying and non-discrimination. This includes actively fostering an inclusive and respectful environment for all students and staff.
 <br>

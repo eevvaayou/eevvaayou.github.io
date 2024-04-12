@@ -10,26 +10,15 @@ layout: post
 
 #### <span style="color:#ffb300; font-weight:bold;">1. Standardized Course</span>
 
-<span style="color:#ffb300;">Delivery:</span> interactive group online courses. 
+- **Delivery:** interactive group online courses. 
 
-<span style="color:#ffb300;">Enrollment::</span> The expected number of students for each course typically ranges from 6 to 15. Students are primarily undergraduates with academic backgrounds in disciplines related to the project or interdisciplinary fields. 
+- **Enrollment:** The expected number of students for each course typically ranges from 6 to 15. Students are primarily undergraduates with academic backgrounds in disciplines related to the project or interdisciplinary fields. 
 
-<span style="color:#ffb300;">Time Commitment:</span> Each tutor's course is approximately 10-12 hours long, spread over 4-6 consecutive weeks. Tutors should schedule fixed class times weekly within the course period, ensuring two consecutive sessions per week with at least 50 minutes per session. Please note that the time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
+- **Time Commitment:** Each tutor's course is approximately 10-12 hours long, spread over 4-6 consecutive weeks. Tutors should schedule fixed class times weekly within the course period, ensuring two consecutive sessions per week with at least 50 minutes per session. Please note that the time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
 
-<span style="color:#ffb300;">Annual Planning:</span> The tutors coordinate course schedules with the company based on their available time and workload. If necessary, collaborate with other tutors to conduct the courses. Generally, there are 3-4 rounds per year. 
+- **Annual Planning:** The tutors coordinate course schedules with the company based on their available time and workload. If necessary, collaborate with other tutors to conduct the courses. Generally, there are 3-4 rounds per year. 
 
-<span style="color:#ffb300;">Class Support:</span> Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
-
----------------
-**Delivery:** interactive group online courses. 
-
-**Enrollment:** The expected number of students for each course typically ranges from 6 to 15. Students are primarily undergraduates with academic backgrounds in disciplines related to the project or interdisciplinary fields. 
-
-**Time Commitment:** Each tutor's course is approximately 10-12 hours long, spread over 4-6 consecutive weeks. Tutors should schedule fixed class times weekly within the course period, ensuring two consecutive sessions per week with at least 50 minutes per session. Please note that the time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
-
-**Annual Planning:** The tutors coordinate course schedules with the company based on their available time and workload. If necessary, collaborate with other tutors to conduct the courses. Generally, there are 3-4 rounds per year. 
-
-**Class Support:** Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
+- **Class Support:** Each course has a dedicated class supervisor for the duration of the course. They ensure that the course is progressing smoothly and facilitate communication between tutors and students, resolving any course-related issues as needed.
 
 #### <span style="color:#ffb300; font-weight:#ffb300;">2. Course Design Framework</span>
 

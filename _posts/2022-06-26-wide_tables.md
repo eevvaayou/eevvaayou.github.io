@@ -70,14 +70,17 @@ If no homework software is needed, tutors can choose to have students submit hom
 
 #### <span style="color:#ffb300; font-weight:bold;">7. Hourly Rate</span>
 
-The tutors' hourly rates generally remain stable, but to ensure fairness and transparency, rates may vary based on market demand, tutors' roles, and the overall value of the courses provided.
+The tutors'hourly rates generally remain stable, but to ensure fairness and transparency, rates may vary based on market demand, tutors'roles, and the overall value of the courses provided.
 We will provide tutors with an explanation of how hourly rates are calculated and factors affecting changes in advance and reach a consensus before the course begins.
 
 #### <span style="color:#ffb300; font-weight:bold;">8. Video Quality and Access</span>
 
 Ensure high-definition video quality. 
+
 The audio must be clear and not disruptive for students. 
+
 Utilize a landscape format for display. 
+
 Access the course via computer.
 
 #### <span style="color:#ffb300; font-weight:bold;">9. Testing Services</span>

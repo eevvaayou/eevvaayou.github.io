@@ -10,12 +10,14 @@ layout: post
 
 <span style="color: black; font-weight:bold;">Our program upholds course quality through specific standards applicable across all academic disciplines. These standards, fundamental to our evaluation process, mainly focus on teaching and learning aspects:</span>
 
-<span style="color:#ffb300;"><u>1. Solicitation and assessment of new courses.</u>
+<span style="color:#ffb300;">
+<u>1. Solicitation and assessment of new courses.</u>
+
 <u>2. Evaluation of student learning outcomes.</u>
+
 <u>3. Assessment of existing courses for potential risks.</u></span> 
 
 <span style="color: black; font-weight:bold;">We aim to optimize course development efficiency to alleviate the extra load on our instructors, who are already deeply involved in research activities. Consequently, instructors need to understand the evaluation standards in advance.</span>
-
 <br>
 
 #### <span style="color:#ffb300; font-weight:bold;">1.	Solicitation and assessment of new courses</span>
@@ -33,7 +35,6 @@ layout: post
 - Is there a system to validate predefined answers and grading methods?
 
 <span style="color: black; font-weight:bold;">Instructors‘responses to these questions are crucial in developing effective actions and strategies to continuously improve learning experiences. Before it starts, they must provide all required course documents for each course they lead at Nudge. This includes slides, data sources, literary works, and various learning aids, aiding the Nudge team in evaluating the course’s quality and comprehensiveness.</span>
-
 <br>
 
 #### <span style="color:#ffb300; font-weight:bold;">2. Evaluation of Learning Outcomes</span>

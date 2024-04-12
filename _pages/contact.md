@@ -11,8 +11,7 @@ The following text is intended to serve as a foundation for discussions among in
 <br>
 <br>
 
-##### <span style="color:#ffb300; font-weight:bold;">1.Anti-Bullying and Non-Discrimination</span>
-Instructors must strictly adhere to established policies and procedures regarding anti-bullying and non-discrimination. This includes actively fostering an inclusive and respectful environment for all students and staff.
+<span style="color:#ffb300; font-weight:bold;">1. Anti-Bullying and Non-Discrimination</span> Instructors must strictly adhere to established policies and procedures regarding anti-bullying and non-discrimination. This includes actively fostering an inclusive and respectful environment for all students and staff.
 <br>
 ##### <span style="color:#ffb300; font-weight:bold;">2.Professional Conduct and Judgment</span>
 Instructors must avoid any actions that demonstrate extreme negligence or poor professional judgment. Such behaviors can jeopardize the health, safety, or well-being of students and staff or hinder the individual’s or company’s operational effectiveness and educational or training objectives.

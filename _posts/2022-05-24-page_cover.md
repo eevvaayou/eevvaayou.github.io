@@ -17,7 +17,6 @@ layout: post
 <span style="color: black; font-weight:bold;">We aim to optimize course development efficiency to alleviate the extra load on our instructors, who are already deeply involved in research activities. Consequently, instructors need to understand the evaluation standards in advance.</span>
 
 <br>
-<br>
 
 #### <span style="color:#ffb300; font-weight:bold;">1.	Solicitation and assessment of new courses</span>
 
@@ -35,8 +34,6 @@ layout: post
 
 <span style="color: black; font-weight:bold;">Instructors‘responses to these questions are crucial in developing effective actions and strategies to continuously improve learning experiences. Before it starts, they must provide all required course documents for each course they lead at Nudge. This includes slides, data sources, literary works, and various learning aids, aiding the Nudge team in evaluating the course’s quality and comprehensiveness.</span>
 
-
-<br>
 <br>
 
 #### <span style="color:#ffb300; font-weight:bold;">2. Evaluation of Learning Outcomes</span>
@@ -55,8 +52,6 @@ layout: post
 
 - Communicate effectively, both orally and in writing, to diverse audiences (Communication).
 
-
-<br>
 <br>
 
 #### <span style="color:#ffb300; font-weight:bold;">3. Assessment of existing courses for potential risks</span>

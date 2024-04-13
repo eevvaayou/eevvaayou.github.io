@@ -43,13 +43,13 @@ layout: post
 
 - Utilize research skills in academic work.
   
-- Locate, evaluate, and effectively use information from various sources (Information Literacy).
+- Locate, evaluate, and effectively use information from various sources **(Information Literacy)**.
   
-- Analyze quantitative data and derive reasonable conclusions (Quantitative Reasoning). (Quantitative Reasoning).
+- Analyze quantitative data and derive reasonable conclusions **(Quantitative Reasoning)**. 
   
-- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions (Critical Thinking).
+- Evaluate problems logically from multiple perspectives and develop reasonable and creative solutions **(Critical Thinking)**.
 
-- Communicate effectively, both orally and in writing, to diverse audiences (Communication).
+- Communicate effectively, both orally and in writing, to diverse audiences **(Communication)**.
 
 <br>
 
@@ -61,7 +61,7 @@ layout: post
 
 - Stakeholder satisfaction ratings, especially from students.
 
-- Changes in instructors' expertise and resource availability.
+- Changes in instructors'expertise and resource availability.
 
 - Course applicability and instructional effectiveness.
 

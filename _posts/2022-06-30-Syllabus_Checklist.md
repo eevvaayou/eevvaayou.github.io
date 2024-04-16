@@ -33,10 +33,10 @@ In this section, list any **pre-requisites** associated with the course (compete
 #### <span style="color:#ffb300; font-weight:bold;">Course Resources</span>
 
 List the required and supplementary resources for the course and how students should access these materials.
--	Required textbook and readings 
--	Suggested readings
--	Course packs
--	Electronic reserves
+-	**Required textbook and readings**
+-	**Suggested readings**
+-	**Course packs**
+-	**Electronic reserves**
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Schedule</span>
 

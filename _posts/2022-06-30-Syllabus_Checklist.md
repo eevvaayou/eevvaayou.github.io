@@ -6,6 +6,8 @@ category: nudge
 layout: post
 ---
 
+<br>
+
 We know that a syllabus is that document that you give students in advance of the course so that they can read them before deciding whether to enroll. But a good syllabus can also do more! Make sure that the syllabus would make someone want to enroll in your course!
 
 The syllabus can act as a contract that will help students know what they should do in order to succsheed in the course. It should also let them know what they can expect of you. Design a course syllabus to best meet your teaching style, course content, activities, and departmental requirements. 

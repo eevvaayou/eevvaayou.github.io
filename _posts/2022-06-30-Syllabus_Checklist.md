@@ -15,9 +15,9 @@ This training will walk you through the basics of what should go in your syllabu
 
 #### <span style="color:#ffb300; font-weight:bold;">Basic Information</span>
 
-- **Course Title**
-- **Course Number (TBD)**
-- **Who might want to take this course and why?**
+- Course Title
+- Course Number (TBD)
+- Who might want to take this course and why?
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Description</span>
 
@@ -33,10 +33,10 @@ In this section, list any **pre-requisites** associated with the course (compete
 #### <span style="color:#ffb300; font-weight:bold;">Course Resources</span>
 
 List the required and supplementary resources for the course and how students should access these materials.
--	**Required textbook and readings**
--	**Suggested readings**
--	**Course packs**
--	**Electronic reserves**
+-	Required textbook and readings
+-	Suggested readings
+-	Course packs
+-	Electronic reserves
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Schedule</span>
 

@@ -11,7 +11,7 @@ layout: post
 <span style="color: black; font-weight:bold;">Our program upholds course quality through specific standards applicable across all academic disciplines. These standards, fundamental to our evaluation process, mainly focus on teaching and learning aspects:</span>
 
 <span style="color:#ffb300;">
-<u>1. Solicitation and assessment of new courses. </u><br>
+<u>1. Solicitation and assessment of new courses. </u>
 <u>2. Evaluation of student learning outcomes. </u><br>
 <u>3. Assessment of existing courses for potential risks.</u></span> 
 

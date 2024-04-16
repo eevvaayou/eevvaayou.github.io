@@ -26,9 +26,9 @@ In this section, list any **pre-requisites** associated with the course (compete
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Overview and Objectives</span>
 
--The big picture goals of the course. What do you really hope students get out of it?
--A course overview. What themes are you covering? What questions will you be tackling? 
--The objectives of the course. 
+- The big picture goals of the course. What do you really hope students get out of it?
+- A course overview. What themes are you covering? What questions will you be tackling? 
+- The objectives of the course. 
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Resources</span>
 

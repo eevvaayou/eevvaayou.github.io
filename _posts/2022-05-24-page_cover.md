@@ -11,10 +11,9 @@ layout: post
 <span style="color: black; font-weight:bold;">Our program upholds course quality through specific standards applicable across all academic disciplines. These standards, fundamental to our evaluation process, mainly focus on teaching and learning aspects:</span>
 
 <span style="color:#ffb300;">
-  
-*1. Solicitation and assessment of new courses* <br>
-*2. Evaluation of student learning outcomes.* <br>
-*3. Assessment of existing courses for potential risks.* </span> 
+<u>1. Solicitation and assessment of new courses </u>u><br>
+<u>2. Evaluation of student learning outcomes. </u><br>
+<u>3. Assessment of existing courses for potential risks. </u></span> 
 
 <span style="color: black; font-weight:bold;">We aim to optimize course development efficiency to alleviate the extra load on our instructors, who are already deeply involved in research activities. Consequently, instructors need to understand the evaluation standards in advance.</span>
 <br>

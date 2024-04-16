@@ -15,9 +15,9 @@ This training will walk you through the basics of what should go in your syllabu
 
 #### <span style="color:#ffb300; font-weight:bold;">Basic Information</span>
 
-**- Course Title**
-**- Course Number (TBD)**
-**- Who might want to take this course and why?**
+- **Course Title**
+- **Course Number (TBD)**
+- **Who might want to take this course and why?**
 
 #### <span style="color:#ffb300; font-weight:bold;">Course Description</span>
 

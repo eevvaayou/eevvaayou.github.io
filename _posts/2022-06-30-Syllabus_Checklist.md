@@ -42,4 +42,4 @@ List the required and supplementary resources for the course and how students sh
 The course schedule provides **a comprehensive breakdown of the topics or major questions covered each week,** offering a structured overview of the learning journey throughout the duration of the course, along with any other relevant activities planned for each week.
 
 <br>
-
+<br>

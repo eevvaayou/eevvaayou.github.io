@@ -1,7 +1,7 @@
 ---
 title: Course Quality Checklist
 author: nudge
-date: 2019-04-28
+date: 2019-05-05
 category: J
 layout: post
 ---

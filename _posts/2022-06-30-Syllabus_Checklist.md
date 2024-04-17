@@ -1,7 +1,7 @@
 ---
 title: Syllabus Checklist
-author: Tao He
-date: 2022-06-30
+author: nudge
+date: 2019-04-29
 category: nudge
 layout: post
 ---

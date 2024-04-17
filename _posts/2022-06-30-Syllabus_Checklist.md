@@ -1,7 +1,7 @@
 ---
 title: Syllabus Checklist
 author: nudge
-date: 2019-04-29
+date: 2019-05-01
 category: nudge
 layout: post
 ---

@@ -48,7 +48,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Determining Final Project Topics:** By the third week of the course or earlier, the instructors need to assist each student in determining their final project topic/research topic to ensure that students have enough time to prepare and complete it before the end of the course. The estimated work time for the final project assignment should be between 20 and 30 hours. The instructors should keep an eye on the progress students are making with their projects and provide feedback and support.
 
-- **Final Project Formats:** The instructors can design final project assignments as research proposals, modeling and software development, or other practical projects. The instructors should provide further guidance to students who may produce conference papers after the course ends. We will limit the guidance time to approximately four hours four weeks after the course ends.
+- **Final Project Formats:** The instructors can design final project assignments as research proposals, modeling and software development, or other practical projects.
 
 #### <span style="color:#ffb300; font-weight:bold;">5. Course Conclusion</span>
 

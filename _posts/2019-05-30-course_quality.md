@@ -14,7 +14,7 @@ layout: post
 
 - **Enrollment:** The expected number of students for each course typically ranges from 6 to 15. Students are primarily undergraduates with academic backgrounds in disciplines related to the project or interdisciplinary fields. 
 
-- **Time Commitment:** Each instructor's course is approximately 10-12 hours long, spread over 4-6 consecutive weeks. Instructors should schedule fixed class times weekly within the course period, ensuring two consecutive sessions per week with at least 50 minutes per session. Please note that the time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
+- **Time Commitment:** Each instructor's course is approximately 10-12 hours long, spread over 4-6 consecutive weeks. Instructors should schedule fixed class times weekly within the course period, ensuring two consecutive sessions per week with at least 50 minutes per session. The time dedicated to course planning and evaluating student assignments is excluded from teaching hours.
 
 - **Annual Planning:** The instructors coordinate course schedules with the company based on their available time and workload. If necessary, collaborate with other instructors to conduct the courses. Generally, there are 3-4 rounds per year. 
 

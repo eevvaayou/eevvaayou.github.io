@@ -36,7 +36,7 @@ The structured design of the course should consider aspects such as learning obj
 
 #### <span style="color:#ffb300; font-weight:#ffb300;">3. Homework Management</span>
 
-- **Clear Expectations and Workload:** Instructors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. instructors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' School learning tasks, if a instructor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
+- **Clear Expectations and Workload:** Instructors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. instructors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' school learning tasks, if a instructor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
 
 - **Assignment Planning:** Students should be informed in advance of their weekly homework tasks and deadlines to allow for proper time management.
 

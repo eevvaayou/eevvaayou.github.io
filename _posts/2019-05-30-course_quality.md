@@ -26,7 +26,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Course Goals:** Clearly define the course learning objectives, including goals related to knowledge, skills, abilities, and practical outputs from students. These objectives should be relevant to real-world applications.
 
-- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite course (If you have suitable collaborative teaching mentors/instructors/teaching assistants, please don't hesitate to introduce them to us.).
+- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite course (If you have suitable cooperating teachers/mentors/instructors/teaching assistants, please don't hesitate to introduce them to us.).
 
 - **Learning Activities:** Learning activities include, but are not limited to, case studies, online discussions, coding tests. These activities should inspire students' learning and research and cultivate problem-solving skills and critical thinking.
 

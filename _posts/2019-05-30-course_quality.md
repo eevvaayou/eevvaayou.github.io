@@ -62,7 +62,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Material Submission:** Instructors are required to submit all course materials one week before the start of the teaching session to allow the company sufficient time to review and prepare.
 
-- **Resource Variety:** Necessary course materials include slides for all sessions, relevant assignment materials, programming software tools (if necessary), etc. Other course materials may include audiovisual materials, resource links, code, datasets, and any other supportive materials. If necessary, instructors should assist company personnel in checking whether the materials can be accessed and used smoothly by students before the teaching session to ensure smooth access and utilization of course materials.
+- **Resource Variety:** Necessary course materials include slides for all sessions, relevant assignment materials, programming tools list(if necessary), etc. Other course materials may include audiovisual materials, resource links, code, datasets, and any other supportive materials. If necessary, instructors should assist company personnel in checking whether the materials can be accessed and used smoothly by students before the teaching session to ensure smooth access and utilization of course materials.
 
 - **Review and Updates:** Instructors should regularly review course materials to ensure accuracy and completeness and make updates and adjustments as necessary.
 

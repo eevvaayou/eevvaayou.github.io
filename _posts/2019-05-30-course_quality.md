@@ -26,7 +26,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Course Goals:** Clearly define the course learning objectives, including goals related to knowledge, skills, abilities, and practical outputs from students. These objectives should be relevant to real-world applications.
 
-- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite instructors for the course (If you have suitable collaborative teaching mentors/instructors/ teaching assistants, please don't hesitate to introduce them to us.).
+- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite course (If you have suitable collaborative teaching mentors/instructors/teaching assistants, please don't hesitate to introduce them to us.).
 
 - **Learning Activities:** Learning activities include, but are not limited to, case studies, online discussions, coding tests, or competitions. These activities should inspire students' learning and research and cultivate problem-solving skills and critical thinking.
 
@@ -62,7 +62,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Material Submission:** Instructors are required to submit all course materials one week before the start of the teaching session to allow the company sufficient time to review and prepare.
 
-- **Resource Variety:** Necessary course materials include slides for all sessions, relevant assignment materials, programming tools list(if necessary), etc. Other course materials may include audiovisual materials, resource links, code, datasets, and any other supportive materials. If necessary, instructors should assist company personnel in checking whether the materials can be accessed and used smoothly by students before the teaching session to ensure smooth access and utilization of course materials.
+- **Resource Variety:** Necessary course materials include slides for all sessions, relevant assignment materials, programming tools list (if necessary), etc. Other course materials may include audiovisual materials, resource links, code, datasets, and any other supportive materials. If necessary, instructors should assist company personnel in checking whether the materials can be accessed and used smoothly by students before the teaching session to ensure smooth access and utilization of course materials.
 
 - **Review and Updates:** Instructors should regularly review course materials to ensure accuracy and completeness and make updates and adjustments as necessary.
 

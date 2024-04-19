@@ -10,7 +10,7 @@ layout: post
 
 #### <span style="color:#ffb300; font-weight:bold;">1. Standardized Course</span>
 
-- **Delivery:** interactive group online courses. 
+- **Delivery:** Interactive group online courses. 
 
 - **Enrollment:** The expected number of students for each course typically ranges from 6 to 15. Students are primarily undergraduates with academic backgrounds in disciplines related to the project or interdisciplinary fields. 
 

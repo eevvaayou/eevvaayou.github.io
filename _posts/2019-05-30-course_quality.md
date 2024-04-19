@@ -56,7 +56,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Certificate:** Instructors, or Nudge with the instructor's authorization, will assess each student based on the evaluation criteria and issue certificate to each student.
 
-- **Recommendation Letter:** The instructors should write recommendation letters for outstanding students with needs. When writing recommendation letters or evaluations, the instructors should provide specific descriptions of student achievements and abilities. However, the writing of recommendation letters is not mandatory.
+- **Recommendation Letter:** Instructors should write recommendation letters for outstanding students with needs. When writing recommendation letters or evaluations, the instructors should provide specific descriptions of student achievements and abilities. However, the writing of recommendation letters is not mandatory.
 
 #### <span style="color:#ffb300; font-weight:bold;">6. Course Materials</span>
 

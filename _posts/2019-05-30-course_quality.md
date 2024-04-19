@@ -54,7 +54,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Final Project Presentation:** The students are required to present their final projects in the last week of the course. For courses with a large number of registrants, the instructors may limit the number of presenters, such as selecting students who volunteer to present individually or in groups. Students who do not present their final projects will submit their results online to the company and the instructors for final evaluation.
 
-- **Certificate:** Instructors, or Nudge with the instructor's authorization, will assess each student based on the evaluation criteria and issue certificates to each student.
+- **Certificate:** Instructors, or Nudge with the instructor's authorization, will assess each student based on the evaluation criteria and issue certificate to each student.
 
 - **Recommendation Letter:** The instructors should write recommendation letters for outstanding students with needs. When writing recommendation letters or evaluations, the instructors should provide specific descriptions of student achievements and abilities. However, the writing of recommendation letters is not mandatory.
 

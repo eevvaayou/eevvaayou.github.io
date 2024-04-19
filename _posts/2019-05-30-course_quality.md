@@ -26,7 +26,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Course Goals:** Clearly define the course learning objectives, including goals related to knowledge, skills, abilities, and practical outputs from students. These objectives should be relevant to real-world applications.
 
-- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite instructors for the course (If the instructor has suitable collaborative teaching mentors/instructors/ teaching assistants, please don't hesitate to introduce them to us.).
+- **Content:** Divide the content into different modules or stages. Each module should correspond with the learning objectives. The content should be periodically updated to continuously align with advancements in the academic field. Identify the background knowledge and prerequisites required for the course so that students can successfully complete it. When necessary, we will match students with prerequisite instructors for the course (If you have suitable collaborative teaching mentors/instructors/ teaching assistants, please don't hesitate to introduce them to us.).
 
 - **Learning Activities:** Learning activities include, but are not limited to, case studies, online discussions, coding tests, or competitions. These activities should inspire students' learning and research and cultivate problem-solving skills and critical thinking.
 
@@ -40,7 +40,7 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Assignment Planning:** Students should be informed in advance of their weekly homework tasks and deadlines to allow for proper time management.
 
-- **Streamlining Management Tools:** instructors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite instructors to join. (We invite the instructors to tell us if they have more suitable homework software.) If no homework software is needed, instructors can choose to have students submit homework and provide feedback to students via email. This method requires instructors and students to cc the class supervisor on all communications.
+- **Streamlining Management Tools:** instructors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite instructors to join. (Feel free to let us know if you have a homework software that you prefer.) If no homework software is needed, instructors can choose to have students submit homework and provide feedback to students via email. This method requires instructors and students to cc the class supervisor on all communications.
 
 - **Pre-Class Assessment and Feedback:** The instructors should review all student work at least one day before class. Feedback and evaluation of student homework during class should not exceed 15 minutes, not excessively occupying normal class time.
 

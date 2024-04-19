@@ -36,11 +36,11 @@ The structured design of the course should consider aspects such as learning obj
 
 #### <span style="color:#ffb300; font-weight:#ffb300;">3. Homework Management</span>
 
-- **Clear Expectations and Workload:** instructors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. instructors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' School learning tasks, if a instructor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
+- **Clear Expectations and Workload:** Instructors should clearly outline the students' weekly homework tasks. Between one and three homework tasks are recommended. instructors should estimate the time required for each assignment to ensure the total workload does not exceed 10 hours per week. To avoid conflicts with students' School learning tasks, if a instructor's weekly homework time is expected to exceed 10 hours,  consider further task delineation or adjustment of homework requirements.
 
 - **Assignment Planning:** Students should be informed in advance of their weekly homework tasks and deadlines to allow for proper time management.
 
-- **Streamlining Management Tools:** instructors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite instructors to join. (Feel free to let us know if you have a homework software that you prefer.) If no homework software is needed, instructors can choose to have students submit homework and provide feedback to students via email. This method requires instructors and students to cc the class supervisor on all communications.
+- **Streamlining Management Tools:** Instructors should select homework management software from the list provided by the company that aligns with their course. They must inform company at least one week before the course begins so that we can prepare the course page and invite instructors to join. (Feel free to let us know if you have a homework software that you prefer.) If no homework software is needed, instructors can choose to have students submit homework and provide feedback to students via email. This method requires instructors and students to cc the class supervisor on all communications.
 
 - **Pre-Class Assessment and Feedback:** The instructors should review all student work at least one day before class. Feedback and evaluation of student homework during class should not exceed 15 minutes, not excessively occupying normal class time.
 
@@ -54,17 +54,17 @@ The structured design of the course should consider aspects such as learning obj
 
 - **Final Project Presentation:** The students are required to present their final projects in the last week of the course. For courses with a large number of registrants, the instructors may limit the number of presenters, such as selecting students who volunteer to present individually or in groups. Students who do not present their final projects will submit their results online to the company and the instructors for final evaluation.
 
-- **Certificate:** instructors, or Nudge with the instructor's authorization, will assess each student based on the evaluation criteria and issue course certificates to each student authorized by the instructor.
+- **Certificate:** Instructors, or Nudge with the instructor's authorization, will assess each student based on the evaluation criteria and issue certificates to each student.
 
 - **Recommendation Letters:** The instructors should write recommendation letters for outstanding students with specific needs. When writing recommendation letters or evaluations, the instructors should provide specific descriptions of student achievements and abilities. However, the writing of recommendation letters is not mandatory.
 
 #### <span style="color:#ffb300; font-weight:bold;">6. Course Materials</span>
 
-- **Material Submission:** instructors are required to submit all course materials one week before the start of the teaching session to allow the company sufficient time to review and prepare.
+- **Material Submission:** Instructors are required to submit all course materials one week before the start of the teaching session to allow the company sufficient time to review and prepare.
 
 - **Resource Variety:** Necessary course materials include slides for all sessions, relevant assignment materials, programming software tools (if necessary), etc. Other course materials may include audiovisual materials, resource links, code, datasets, and any other supportive materials. If necessary, instructors should assist company personnel in checking whether the materials can be accessed and used smoothly by students before the teaching session to ensure smooth access and utilization of course materials.
 
-- **Review and Updates:** instructors should regularly review course materials to ensure accuracy and completeness and make updates and adjustments as necessary.
+- **Review and Updates:** Instructors should regularly review course materials to ensure accuracy and completeness and make updates and adjustments as necessary.
 
 #### <span style="color:#ffb300; font-weight:bold;">7. Hourly Rate</span>
 
